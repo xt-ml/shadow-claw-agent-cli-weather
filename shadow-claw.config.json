@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "site": {
+    "title": "ShadowClaw Agent CLI Weather",
+    "description": "Headless CLI weather station, forecasting, and environmental advisory powered by ShadowClaw",
+    "themeColor": "#0f172a",
+    "lang": "en"
+  },
+  "branding": {
+    "titleText": "ShadowClaw Agent CLI Weather",
+    "repoUrl": "https://github.com/xt-ml/shadow-claw-agent-cli-weather"
+  },
+  "settings": {
+    "defaultToolsProfile": "__builtin_default"
+  },
+  "agent": {
+    "defaultProvider": "transformers_js_local",
+    "defaultModel": "onnx-community/gemma-3-1b-it-ONNX-GQA"
+  }
+}

@@ -1,0 +1,7 @@
+dist
+database/
+.cache/*
+!.cache/MEMORY.md
+reports/*
+!reports/.gitkeep
+node_modules/

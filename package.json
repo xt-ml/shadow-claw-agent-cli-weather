@@ -1,0 +1,19 @@
+{
+  "name": "shadow-claw-agent-cli-weather",
+  "version": "1.0.0",
+  "description": "[![ShadowClaw Agent](https://img.shields.io/badge/Agent-ShadowClaw_CLI-6366f1?style=flat&logo=gnubash)](https://github.com/xt-ml/shadow-claw) [![Model Agnostic](https://img.shields.io/badge/Model-Agnostic-3b82f6?style=flat)](https://github.com/xt-ml/shadow-claw-agent-cli-weather) [![Open-Meteo](https://img.shields.io/badge/Weather_Data-Open--Meteo-f59e0b?style=flat)](https://open-meteo.com) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Discovery-8b5cf6?style=flat)](.well-known/agent-skills/index.json) [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)",
+  "homepage": "https://xt-ml.github.io/shadow-claw-agent-cli-weather/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xt-ml/shadow-claw-agent-cli-weather.git"
+  },
+  "license": "AGPL-3.0",
+  "type": "module",
+  "main": "bin/build-html.mjs",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "marked": "^18.0.13"
+  }
+}

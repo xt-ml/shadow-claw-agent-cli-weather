@@ -1,0 +1,24 @@
+{
+  "name": "lookup_location_coords",
+  "description": "Look up geographic coordinates (latitude, longitude) for a given location name using the Open-Meteo Geocoding API. Useful before calling weather endpoints for a non-default location.",
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "The place name to look up (e.g. 'Chicago', 'New York', 'London')."
+      },
+      "count": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 10,
+        "description": "Number of results to return. Defaults to 5."
+      }
+    },
+    "required": ["name"]
+  },
+  "execution": {
+    "type": "javascript",
+    "code": "const args = JSON.parse(data); const name = encodeURIComponent(args.name); const count = args.count || 5; const url = `https://geocoding-api.open-meteo.com/v1/search?name=${name}&count=${count}&language=en&format=json`; const res = await fetch(url); const json = await res.json(); return JSON.stringify(json, null, 2);"
+  }
+}

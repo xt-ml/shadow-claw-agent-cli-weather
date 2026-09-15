@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "name": "ShadowClaw Agent CLI Weather",
+  "description": "Headless CLI weather station, forecasting, and environmental advisory powered by ShadowClaw",
+  "skills": [],
+  "tools": [
+    {
+      "name": "get_air_quality",
+      "description": "Fetch current and hourly air quality data for Chicago, Illinois (or specified coordinates) using the Open-Meteo Air Quality API. Returns UV index, European AQI, PM2.5, PM10, and particulate levels.",
+      "url": "../../.agents/tools/main/get_air_quality.json",
+      "digest": "sha256:a1e1706a984ebdb0ee837a2214f86db15a325e08cf5b585d48c701765b936ba5"
+    },
+    {
+      "name": "get_current_weather",
+      "description": "Fetch real-time weather conditions for Chicago, Illinois (or specified coordinates) using the Open-Meteo API. Returns temperature, apparent temperature, humidity, wind speed/direction/gusts, precipitation, cloud cover, and WMO weather code.",
+      "url": "../../.agents/tools/main/get_current_weather.json",
+      "digest": "sha256:67023b0b07d38aeb02838bfd10d314873554888c0d949961166f1aff9fa97859"
+    },
+    {
+      "name": "get_weather_forecast",
+      "description": "Fetch a multi-day weather forecast for Chicago, Illinois (or specified coordinates) using the Open-Meteo API. Returns daily high/low temperatures, precipitation, wind, sunrise/sunset, and WMO weather codes. Hourly data includes temperature, dew point, apparent temperature, humidity, precipitation probability, wind speed, and weather code — suitable for condition-window queries such as 'find the next 24h where temp > 2C and temp is 3C above dew point'.",
+      "url": "../../.agents/tools/main/get_weather_forecast.json",
+      "digest": "sha256:5716c665511f306c8ef63e032fd51edacf9db709abc848ade8ec02895febefaf"
+    },
+    {
+      "name": "lookup_location_coords",
+      "description": "Look up geographic coordinates (latitude, longitude) for a given location name using the Open-Meteo Geocoding API. Useful before calling weather endpoints for a non-default location.",
+      "url": "../../.agents/tools/main/lookup_location_coords.json",
+      "digest": "sha256:4fb279207e84084f3a2d8de2c7dbe8b0898c8e5042a40ae80d027fef1b382374"
+    }
+  ],
+  "dependencies": {
+    "tools": [
+      "../../.agents/tools/main/get_air_quality.json",
+      "../../.agents/tools/main/get_current_weather.json",
+      "../../.agents/tools/main/get_weather_forecast.json",
+      "../../.agents/tools/main/lookup_location_coords.json"
+    ]
+  }
+}

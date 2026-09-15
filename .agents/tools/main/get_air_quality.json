@@ -1,0 +1,26 @@
+{
+  "name": "get_air_quality",
+  "description": "Fetch current and hourly air quality data for Chicago, Illinois (or specified coordinates) using the Open-Meteo Air Quality API. Returns UV index, European AQI, PM2.5, PM10, and particulate levels.",
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "latitude": {
+        "type": "number",
+        "description": "Latitude of the location. Defaults to 41.8781 (Chicago, IL)."
+      },
+      "longitude": {
+        "type": "number",
+        "description": "Longitude of the location. Defaults to -87.6298 (Chicago, IL)."
+      },
+      "timezone": {
+        "type": "string",
+        "description": "Timezone string. Defaults to 'America/Chicago'."
+      }
+    },
+    "required": []
+  },
+  "execution": {
+    "type": "javascript",
+    "code": "const args = JSON.parse(data); const lat = args.latitude ?? 41.8781; const lon = args.longitude ?? -87.6298; const tz = encodeURIComponent(args.timezone || 'America/Chicago'); const url = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi,pm10,pm2_5,uv_index,uv_index_clear_sky&hourly=pm10,pm2_5,uv_index,european_aqi&timezone=${tz}&forecast_days=1`; const res = await fetch(url); const json = await res.json(); return JSON.stringify(json, null, 2);"
+  }
+}
