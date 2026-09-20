@@ -714,12 +714,23 @@
     <!-- Main Content Layout -->
     <div class="main-wrapper">
       <article class="markdown-body">
-        <h1 id="shadowclaw-agent-cli-weather" class="heading-anchor-wrapper">
-          <span>🌤️ ShadowClaw Agent CLI Weather</span>
+        <h1
+          id="shadowclaw-agent-cli-weatherhttpsxt-mlgithubioshadow-claw-agent-cli-weather"
+          class="heading-anchor-wrapper"
+        >
+          <span
+            >🌤️
+            <a
+              href="https://xt-ml.github.io/shadow-claw-agent-cli-weather/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >ShadowClaw Agent CLI Weather</a
+            ></span
+          >
           <a
-            href="#shadowclaw-agent-cli-weather"
+            href="#shadowclaw-agent-cli-weatherhttpsxt-mlgithubioshadow-claw-agent-cli-weather"
             class="heading-anchor"
-            aria-label="Direct link to 🌤️ ShadowClaw Agent CLI Weather"
+            aria-label="Direct link to 🌤️ [ShadowClaw Agent CLI Weather](https://xt-ml.github.io/shadow-claw-agent-cli-weather/)"
             >#</a
           >
         </h1>
@@ -792,6 +803,54 @@
           provider (including local models via Ollama or Transformers.js, or
           cloud providers such as OpenRouter, Anthropic, or OpenAI).
         </p>
+        <hr />
+        <!-- WEATHER_REPORT_START -->
+        <h2
+          id="live-automated-weather-briefing-chicago-il"
+          class="heading-anchor-wrapper"
+        >
+          <span>🌤️ Live Automated Weather Briefing — Chicago, IL</span>
+          <a
+            href="#live-automated-weather-briefing-chicago-il"
+            class="heading-anchor"
+            aria-label="Direct link to 🌤️ Live Automated Weather Briefing — Chicago, IL"
+            >#</a
+          >
+        </h2>
+        <div class="callout callout-note" role="note">
+          <div class="callout-header">
+            <span class="callout-icon">ℹ️</span>
+            <span class="callout-title">NOTE</span>
+          </div>
+          <div class="callout-body">
+            <p>
+              <strong>Station Operational Status</strong>: Active — Updated
+              every 6 hours via GitHub Actions cron. 📍
+              <strong>Station Reference</strong>: Chicago, Illinois, United
+              States (<code>41.8781°N, 87.6298°W</code>) 🤖
+              <strong>Inference Engine</strong>:
+              <code>onnx-community/gemma-4-E2B-it-ONNX</code> (Transformers.js
+              Local) 📦 <strong>Raw Data Asset</strong>:
+              <a href="reports/weather-data.json"
+                ><code>reports/weather-data.json</code></a
+              >
+              · <strong>Briefing Markdown</strong>:
+              <a href="reports/weather-update.md"
+                ><code>reports/weather-update.md</code></a
+              >
+            </p>
+          </div>
+        </div>
+        <details open>
+          <summary><strong>📋 View Latest Weather Briefing</strong></summary>
+          <p>
+            <em
+              >Automated weather report pending initial GitHub Actions workflow
+              run.</em
+            >
+          </p>
+        </details>
+        <!-- WEATHER_REPORT_END -->
         <hr />
         <h2 id="key-capabilities" class="heading-anchor-wrapper">
           <span>✨ Key Capabilities</span>
@@ -1956,80 +2015,6 @@ npx shadow-claw agent run --tools &quot;get_current_weather,get_weather_forecast
           <code>index.html</code> guarantees instant browser viewing without
           requiring Jekyll compilation.
         </p>
-        <hr />
-        <h2 id="file-structure" class="heading-anchor-wrapper">
-          <span>🗂️ File Structure</span>
-          <a
-            href="#file-structure"
-            class="heading-anchor"
-            aria-label="Direct link to 🗂️ File Structure"
-            >#</a
-          >
-        </h2>
-        <div class="code-block-wrapper">
-          <div class="code-block-header">
-            <span class="code-lang-badge">text</span>
-            <button
-              class="copy-code-btn"
-              type="button"
-              aria-label="Copy code to clipboard"
-              data-code=".%0A%E2%94%9C%E2%94%80%E2%94%80%20.agents%2F%0A%E2%94%82%20%20%20%E2%94%94%E2%94%80%E2%94%80%20tools%2Fmain%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Declarative%20agent%20tools%20(weather%2C%20forecast%2C%20air%20quality%2C%20geocoding)%0A%E2%94%82%20%20%20%20%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20get_air_quality.json%0A%E2%94%82%20%20%20%20%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20get_current_weather.json%0A%E2%94%82%20%20%20%20%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20get_weather_forecast.json%0A%E2%94%82%20%20%20%20%20%20%20%E2%94%94%E2%94%80%E2%94%80%20lookup_location_coords.json%0A%E2%94%9C%E2%94%80%E2%94%80%20.cache%2F%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20database%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Canonical%20SQLite%20agent%20database%20(agent.db)%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20default-location.json%20%20%20%20%20%20%20%20%20%20%20%23%20Optional%20persistent%20default%20location%0A%E2%94%82%20%20%20%E2%94%94%E2%94%80%E2%94%80%20MEMORY.md%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Agent%20system%20prompt%20%26%20Chicago%20reference%20memory%0A%E2%94%9C%E2%94%80%E2%94%80%20.nojekyll%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Bypasses%20Jekyll%20on%20GitHub%20Pages%20(allows%20.well-known%20%26%20.agents)%0A%E2%94%9C%E2%94%80%E2%94%80%20.well-known%2F%0A%E2%94%82%20%20%20%E2%94%94%E2%94%80%E2%94%80%20agent-skills%2F%0A%E2%94%82%20%20%20%20%20%20%20%E2%94%94%E2%94%80%E2%94%80%20index.json%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Well-known%20agent%20skills%20discovery%20manifest%0A%E2%94%9C%E2%94%80%E2%94%80%20bin%2F%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20build-html.mjs%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Standalone%20README%20to%20index.html%20compiler%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20resolve-location.mjs%20%20%20%20%20%20%20%20%20%20%20%20%23%20Node.js%20geocoder%20%2F%20location%20resolver%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20scan-window.mjs%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Hourly%20condition%20window%20scanner%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20set-default-location.sh%20%20%20%20%20%20%20%20%20%23%20View%2Fupdate%2Freset%20default%20location%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20summarize-forecast.mjs%20%20%20%20%20%20%20%20%20%20%23%20Forecast%20ingestion%20and%20summarization%20helper%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-now.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Current%20weather%20fetcher%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-forecast.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Multi-day%20forecast%20fetcher%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-window.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Hourly%20condition%20window%20scanner%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-ask.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Unix-pipe%20follow-up%20utility%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-yard.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Property%2Fyard%20work%20advisor%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-travel.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Highway%20travel%20conditions%20advisor%0A%E2%94%82%20%20%20%E2%94%9C%E2%94%80%E2%94%80%20weather-seasonal.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Seasonal%20milestone%20advisor%0A%E2%94%82%20%20%20%E2%94%94%E2%94%80%E2%94%80%20weather-update.sh%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Comprehensive%20daily%20weather%20briefing%0A%E2%94%9C%E2%94%80%E2%94%80%20index.html%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Pre-rendered%20static%20documentation%20%26%20tools%20showcase%0A%E2%94%9C%E2%94%80%E2%94%80%20reports%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Generated%20markdown%20reports%20(git-ignored%20output%20directory)%0A%E2%94%82%20%20%20%E2%94%94%E2%94%80%E2%94%80%20.gitkeep%0A%E2%94%9C%E2%94%80%E2%94%80%20shadow-claw.config.json%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Workspace%20configuration%20%26%20metadata%0A%E2%94%9C%E2%94%80%E2%94%80%20README.md%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Documentation%2C%20agent%20skills%20showcase%20%26%20user%20guide%0A%E2%94%94%E2%94%80%E2%94%80%20AGENTS.md%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Rules%20and%20instructions%20for%20AI%20agents"
-            >
-              <svg
-                class="copy-icon"
-                viewBox="0 0 24 24"
-                width="13"
-                height="13"
-                stroke="currentColor"
-                stroke-width="2"
-                fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
-                <path
-                  d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
-                ></path>
-              </svg>
-              <span class="copy-text">Copy</span>
-            </button>
-          </div>
-          <pre><code class="language-text">.
-├── .agents/
-│   └── tools/main/                     # Declarative agent tools (weather, forecast, air quality, geocoding)
-│       ├── get_air_quality.json
-│       ├── get_current_weather.json
-│       ├── get_weather_forecast.json
-│       └── lookup_location_coords.json
-├── .cache/
-│   ├── database/                       # Canonical SQLite agent database (agent.db)
-│   ├── default-location.json           # Optional persistent default location
-│   └── MEMORY.md                       # Agent system prompt &amp; Chicago reference memory
-├── .nojekyll                           # Bypasses Jekyll on GitHub Pages (allows .well-known &amp; .agents)
-├── .well-known/
-│   └── agent-skills/
-│       └── index.json                  # Well-known agent skills discovery manifest
-├── bin/
-│   ├── build-html.mjs                  # Standalone README to index.html compiler
-│   ├── resolve-location.mjs            # Node.js geocoder / location resolver
-│   ├── scan-window.mjs                 # Hourly condition window scanner
-│   ├── set-default-location.sh         # View/update/reset default location
-│   ├── summarize-forecast.mjs          # Forecast ingestion and summarization helper
-│   ├── weather-now.sh                  # Current weather fetcher
-│   ├── weather-forecast.sh             # Multi-day forecast fetcher
-│   ├── weather-window.sh               # Hourly condition window scanner
-│   ├── weather-ask.sh                  # Unix-pipe follow-up utility
-│   ├── weather-yard.sh                 # Property/yard work advisor
-│   ├── weather-travel.sh               # Highway travel conditions advisor
-│   ├── weather-seasonal.sh             # Seasonal milestone advisor
-│   └── weather-update.sh               # Comprehensive daily weather briefing
-├── index.html                          # Pre-rendered static documentation &amp; tools showcase
-├── reports/                            # Generated markdown reports (git-ignored output directory)
-│   └── .gitkeep
-├── shadow-claw.config.json             # Workspace configuration &amp; metadata
-├── README.md                           # Documentation, agent skills showcase &amp; user guide
-└── AGENTS.md                           # Rules and instructions for AI agents</code></pre>
-        </div>
         <hr />
         <h2 id="license" class="heading-anchor-wrapper">
           <span>License</span>

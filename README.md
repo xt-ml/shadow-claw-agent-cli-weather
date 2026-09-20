@@ -12,6 +12,26 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 
 ---
 
+<!-- WEATHER_REPORT_START -->
+
+## 🌤️ Live Automated Weather Briefing — Chicago, IL
+
+> [!NOTE]
+> **Station Operational Status**: Active — Updated every 6 hours via GitHub Actions cron.
+> 📍 **Station Reference**: Chicago, Illinois, United States (`41.8781°N, 87.6298°W`)
+> 🤖 **Inference Engine**: `onnx-community/gemma-4-E2B-it-ONNX` (Transformers.js Local)
+> 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
+
+<details open>
+<summary><strong>📋 View Latest Weather Briefing</strong></summary>
+
+_Automated weather report pending initial GitHub Actions workflow run._
+
+</details>
+<!-- WEATHER_REPORT_END -->
+
+---
+
 ## ✨ Key Capabilities
 
 - 🤖 **Automated CLI Agent**: Autonomous batch weather retrieval, data synthesis, and actionable outdoor advisories driven by ShadowClaw CLI.
@@ -272,48 +292,6 @@ Declarative tool manifests in [`.agents/tools/main/`](.agents/tools/main) use st
 ### 4. Static Hosting on GitHub Pages with `.nojekyll`
 
 Because GitHub Pages defaults to Jekyll, dot-directories (`.well-known` and `.agents`) would otherwise be suppressed. The root `.nojekyll` file ensures direct public access to discovery schemas and tool definitions. Pre-rendering `index.html` guarantees instant browser viewing without requiring Jekyll compilation.
-
----
-
-## 🗂️ File Structure
-
-```
-.
-├── .agents/
-│   └── tools/main/                     # Declarative agent tools (weather, forecast, air quality, geocoding)
-│       ├── get_air_quality.json
-│       ├── get_current_weather.json
-│       ├── get_weather_forecast.json
-│       └── lookup_location_coords.json
-├── .cache/
-│   ├── database/                       # Canonical SQLite agent database (agent.db)
-│   ├── default-location.json           # Optional persistent default location
-│   └── MEMORY.md                       # Agent system prompt & Chicago reference memory
-├── .nojekyll                           # Bypasses Jekyll on GitHub Pages (allows .well-known & .agents)
-├── .well-known/
-│   └── agent-skills/
-│       └── index.json                  # Well-known agent skills discovery manifest
-├── bin/
-│   ├── build-html.mjs                  # Standalone README to index.html compiler
-│   ├── resolve-location.mjs            # Node.js geocoder / location resolver
-│   ├── scan-window.mjs                 # Hourly condition window scanner
-│   ├── set-default-location.sh         # View/update/reset default location
-│   ├── summarize-forecast.mjs          # Forecast ingestion and summarization helper
-│   ├── weather-now.sh                  # Current weather fetcher
-│   ├── weather-forecast.sh             # Multi-day forecast fetcher
-│   ├── weather-window.sh               # Hourly condition window scanner
-│   ├── weather-ask.sh                  # Unix-pipe follow-up utility
-│   ├── weather-yard.sh                 # Property/yard work advisor
-│   ├── weather-travel.sh               # Highway travel conditions advisor
-│   ├── weather-seasonal.sh             # Seasonal milestone advisor
-│   └── weather-update.sh               # Comprehensive daily weather briefing
-├── index.html                          # Pre-rendered static documentation & tools showcase
-├── reports/                            # Generated markdown reports (git-ignored output directory)
-│   └── .gitkeep
-├── shadow-claw.config.json             # Workspace configuration & metadata
-├── README.md                           # Documentation, agent skills showcase & user guide
-└── AGENTS.md                           # Rules and instructions for AI agents
-```
 
 ---
 

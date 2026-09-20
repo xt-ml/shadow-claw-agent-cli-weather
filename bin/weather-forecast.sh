@@ -38,7 +38,10 @@ done
 
 eval "$(node "$SCRIPT_DIR/resolve-location.mjs" ${LOCATION_ARG:+"$LOCATION_ARG"})"
 
+READING_TIME=$(TZ="$LOC_TZ" date '+%I:%M %p %Z on %A, %B %d, %Y')
+
 echo "📅  Fetching ${DAYS}-day forecast for ${LOC_NAME}..." >&2
+echo "    Observation Time: ${READING_TIME}" >&2
 
 $SC agent run \
   --workspace "$ROOT_DIR/.cache" \
@@ -48,7 +51,7 @@ $SC agent run \
   --no-stream \
   -y \
   -o "$OUT" \
-  "Use fetch_url to call https://api.open-meteo.com/v1/forecast?latitude=${LOC_LAT}&longitude=${LOC_LON}&hourly=temperature_2m,dew_point_2m,apparent_temperature,relative_humidity_2m,precipitation_probability,precipitation,snowfall,weather_code,wind_speed_10m,wind_gusts_10m,cloud_cover,visibility,is_day&daily=weather_code,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,sunrise,sunset,precipitation_sum,rain_sum,snowfall_sum,precipitation_hours,wind_speed_10m_max,wind_gusts_10m_max&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm&timezone=${LOC_TZ_ENCODED}&forecast_days=${DAYS} then write a clear ${DAYS}-day forecast report for ${LOC_NAME}. For each day: show the date, high/low temp, feels-like range, weather description (translate the WMO code), precipitation total, max wind with gusts, and sunrise/sunset times. End with a brief summary paragraph noting any significant weather events in the period. Format as clean markdown."
+  "Use fetch_url to call https://api.open-meteo.com/v1/forecast?latitude=${LOC_LAT}&longitude=${LOC_LON}&hourly=temperature_2m,dew_point_2m,apparent_temperature,relative_humidity_2m,precipitation_probability,precipitation,snowfall,weather_code,wind_speed_10m,wind_gusts_10m,cloud_cover,visibility,is_day&daily=weather_code,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,sunrise,sunset,precipitation_sum,rain_sum,snowfall_sum,precipitation_hours,wind_speed_10m_max,wind_gusts_10m_max&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=${LOC_TZ_ENCODED}&forecast_days=${DAYS} then write a clear ${DAYS}-day forecast report for ${LOC_NAME}. State the forecast generated timestamp as **${READING_TIME}** (${LOC_NAME} local time, never UTC). All measurements must be in US English units: temperatures in Fahrenheit (°F), wind speeds in mph, and precipitation/snow in inches (in). Do not use metric units. For each day: show the date, high/low temp (°F), feels-like range (°F), weather description (translate the WMO code), precipitation total (in), max wind with gusts (mph), and sunrise/sunset times. End with a brief summary paragraph noting any significant weather events in the period. Format as clean markdown."
 
 echo ""
 echo "✅ Saved to: $OUT"

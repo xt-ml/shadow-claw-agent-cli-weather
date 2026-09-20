@@ -1,0 +1,134 @@
+name: Automated Weather Station (Chicago, IL)
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      location:
+        description: "Location for weather briefing"
+        required: false
+        default: "Chicago, Illinois, United States"
+      model:
+        description: "Hugging Face ONNX Model ID"
+        required: false
+        default: "onnx-community/gemma-4-E2B-it-ONNX"
+      provider:
+        description: "Inference Provider"
+        required: false
+        default: "transformers_js_local"
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: weather-station-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  weather-station:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Cache Transformers.js Model Weights
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: assets/cache/transformers.js
+          key: sc-model-gemma-4-E2B-it-ONNX-v1
+          restore-keys: |
+            sc-model-gemma-4-E2B-it-ONNX-
+
+      - name: Download Model via CLI (Cache Miss Fallback)
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          echo "Model cache miss. Downloading ${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }} via CLI..."
+          npx shadow-claw agent model download "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
+
+      - name: Execute Weather Briefing Agent (CLI-Governed)
+        env:
+          LOCATION: "${{ github.event.inputs.location || 'Chicago, Illinois, United States' }}"
+          MODEL: "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
+          PROVIDER: "${{ github.event.inputs.provider || 'transformers_js_local' }}"
+          TRANSFORMERS_JS_REQUEST_TIMEOUT_MS: "600000"
+        run: |
+          echo "Executing headless weather briefing for: $LOCATION"
+          echo "Inference Engine (CLI override): $MODEL via $PROVIDER"
+          ./bin/weather-update.sh \
+            --location "$LOCATION" \
+            --provider "$PROVIDER" \
+            --model "$MODEL"
+
+      - name: Format Weather Reports with Prettier
+        run: |
+          echo "Formatting reports with prettier for clean git diffs..."
+          npx -y prettier -w reports
+
+      - name: Retain Raw Weather Metrics & Reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: chicago-weather-artifacts
+          path: reports/
+          retention-days: 90
+
+      - name: Update README.md with Live Report
+        run: |
+          node ./bin/update-readme.mjs ./reports/weather-update.md
+
+      - name: Rebuild index.html for GitHub Pages
+        run: |
+          node ./bin/build-html.mjs
+
+      - name: Commit and Push Updated Weather Report & Reports
+        run: |
+          git config --global user.name "Karl Herrick"
+          git config --global user.email "me@karlherrick.com"
+          git add README.md index.html reports/
+          if git diff --staged --quiet; then
+            echo "No changes detected. Working tree clean."
+          else
+            git commit -m "chore(weather): update Chicago weather briefing and reports [skip ci]"
+            git push
+          fi
+
+      - name: Stage GitHub Pages Content
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp -r index.html .nojekyll README.md robots.txt sitemap.xml reports .well-known .agents _site/
+          [ -f LICENSE ] && cp LICENSE _site/ || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy-pages:
+    needs: weather-station
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
