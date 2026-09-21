@@ -24,53 +24,44 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Sep 21, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Monday, September 21, 2026 — 12:36 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Monday, September 21, 2026 — 04:32 PM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **12:36 PM CDT on Monday, September 21, 2026**
-- Temperature & Feels-like: 60.4°F, Feels like 54.8°F, Partly Cloudy, 78% Humidity, Dew Point 53.5°F, Wind 15.8 mph from the East, with gusts up to 24.2 mph.
-- Precipitation Today: 0.0 inches
+- Station Observation Time: **04:32 PM CDT on Monday, September 21, 2026** (local time)
+- Temperature & Feels-like: 61.4°F, Feels like 57°F, Overcast conditions, 75% Humidity, Dew Point of 53.4°F. Light wind is blowing from the North at 13 mph, with gusts up to 21.5 mph. There is currently no precipitation recorded.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 23 (Good)
-- PM2.5: 5.1 μg/m³
-- PM10: 5.3 μg/m³
-- UV Index: 1.9 (Low to Moderate) - Sun protection is generally not required for brief exposure, but sunscreen is recommended for prolonged outdoor activity.
+- European AQI: 27 (Good)
+- Particulate Matter (PM2.5): 5.0 μg/m³
+- Particulate Matter (PM10): 5.4 μg/m³
+- UV Index: 0.85 (Low to Moderate) - Sun protection is advised, as the index is low but present.
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)   |
-| :----- | :-------- | :-------- | :------- | :---------- | :------------------- |
-| Sep 21 | Cloudy    | 62.7°F    | 58.0°F   | 0.0         | Winds up to 27.7 mph |
-| Sep 22 | Overcast  | 59.8°F    | 54.7°F   | 0.06 inches | Winds up to 24.4 mph |
-| Sep 23 | Rain      | 63.6°F    | 57.9°F   | 0.0 inches  | Winds up to 19.9 mph |
-| Sep 24 | Rain      | 67.2°F    | 60.8°F   | 0.0 inches  | Winds up to 16.1 mph |
-| Sep 25 | Rain      | 63.8°F    | 60.9°F   | 0.0 inches  | Winds up to 16.6 mph |
-| Sep 26 | Rain      | 64.3°F    | 58.2°F   | 0.07 inches | Winds up to 17.7 mph |
-| Sep 27 | Rain      | 72.2°F    | 59.1°F   | 0.0 inches  | Winds up to 19.2 mph |
+| Date   | Condition    | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
+| :----- | :----------- | :-------- | :------- | :---------- | :----------------- |
+| Sep 21 | Rain/Showers | 64.4°F    | 58°F     | 0.008       | 18.5 / 27.7        |
+| Sep 22 | Rain         | 60.1°F    | 55.3°F   | 0.000       | 16.6 / 24.6        |
+| Sep 23 | Rain         | 63.5°F    | 57°F     | 0.024       | 15.2 / 23.0        |
+| Sep 24 | Rain         | 66.2°F    | 60.2°F   | 0.000       | 10.1 / 15.9        |
+| Sep 25 | Rain         | 64.2°F    | 60.6°F   | 0.000       | 8.7 / 17.0         |
+| Sep 26 | Rain         | 74.8°F    | 61.7°F   | 0.051       | 7.9 / 19.9         |
+| Sep 27 | Rain         | 72.2°F    | 59.1°F   | 0.091       | 8.1 / 23.3         |
 
-**Notable Weather Events:** Expect a transition into a rainy period mid-week, with temperatures peaking in the mid-to-upper 60s and highs reaching into the low 70s by the end of the forecast period. Wind speeds will remain moderate, with gusts occasionally reaching the mid-20s mph.
+**Notable Weather Events:** Expect a pattern of rain showers throughout the week. The highest high temperature is forecasted for September 26th (74.8°F). Wind speeds will be noticeable, with gusts reaching up to 27.7 mph on Monday.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — September 2026)
 
 **Yard & Garden Advice:**
-
-- **Soil Condition:** Given the recent and upcoming rain, soil moisture levels should be adequate. Avoid heavy watering unless soil is visibly dry, as recent precipitation suggests the ground is well-hydrated.
-- **Frost Risk:** Frost risk is currently low, but be mindful of overnight lows dipping into the upper 50s°F. Keep sensitive plants protected if temperatures drop significantly overnight.
-- **Watering Needs:** Keep a close eye on the forecast for sustained rain. If rain is absent, ensure regular, deep watering, especially for established plants.
+Given the consistent rain forecast, soil moisture should be adequate. Be mindful of potential runoff during heavy rain events. No immediate frost risk is indicated, but keep an eye on overnight lows, as they dip into the upper 50s°F. Water deeply but less frequently to promote healthy root development.
 
 **Travel & Driving Outlook:**
-
-- **Highway Conditions:** Expect wet roads due to recent and ongoing precipitation. Drivers should exercise caution, particularly on highways, as reduced visibility and slick surfaces are possible.
-- **Wind/Ice/Fog Watch:** Moderate to strong winds are forecasted, with gusts reaching the mid-20s mph. This could lead to some localized debris or reduced visibility. Be prepared for potential slick conditions.
+Be prepared for wet roads, especially during the rain showers forecasted. Highway conditions may be slick. Watch for potential hydroplaning risks. Wind gusts are significant, so drivers should exercise caution on high-profile vehicles.
 
 **Clothing Recommendation for Today:**
-
-- Dress in layers. The current temperature is mild, but the humidity is high, making it feel warmer.
-- Bring a waterproof jacket or umbrella, as rain is forecasted throughout the week.
-- Light sweaters or long-sleeved shirts are suitable for the cooler periods, especially in the evening.
+Dress in layers. The current temperature is mild, but the high of 64°F and the potential for rain mean temperatures will feel cooler. Bring a waterproof jacket or umbrella, and layers suitable for a mild, damp day.
 
 </details>
 <!-- WEATHER_REPORT_END -->
