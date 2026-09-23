@@ -24,52 +24,55 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Sep 23, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Wednesday, September 23, 2026 — 10:54 AM CDT
+# Weather Briefing — Chicago, Illinois, United States — Wednesday, September 23, 2026 — 03:56 PM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **10:54 AM CDT on Wednesday, September 23, 2026** (local time)
-- Temperature & Feels-like: 61.7°F, Partly Cloudy, 75% Humidity, Dew Point 53.7°F, Wind 12.3 mph from the East, with gusts up to 19.2 mph.
+- Station Observation Time: **03:56 PM CDT on Wednesday, September 23, 2026** (local time)
+- Temperature & Feels-like: 62.6°F, Feels like 59.2°F, Overcast conditions.
+- Humidity: 76%
+- Dew Point: 55°F
+- Wind: 11.9 mph from the South (50°), with gusts up to 19.7 mph.
 - Precipitation Today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 21 (Good)
-- PM2.5: 5.5 μg/m³
-- PM10: 5.7 μg/m³
-- UV Index: 1.25 (Low risk; light sun protection is advised)
+- European AQI: 32 (Good)
+- PM2.5: 6.3 μg/m³
+- PM10: 6.6 μg/m³
+- UV Index: 1.85 (Low to Moderate) - Sun protection is generally not required for brief exposure, but be mindful of sun exposure.
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition    | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)          |
-| :----- | :----------- | :-------- | :------- | :---------- | :-------------------------- |
-| Sep 23 | Cloudy       | 62.6°F    | 57.7°F   | 0.0         | Winds up to 25.1 mph        |
-| Sep 24 | Cloudy       | 65.0°F    | 57.7°F   | 0.0         | Winds up to 21.7 mph        |
-| Sep 25 | Cloudy       | 65.3°F    | 57.2°F   | 0.0         | Winds up to 20.6 mph        |
-| Sep 26 | Cloudy       | 66.9°F    | 57.0°F   | 0.0         | Winds up to 11.9 mph        |
-| Sep 27 | Cloudy       | 68.5°F    | 58.2°F   | 0.0         | Winds up to 9.2 mph         |
-| Sep 28 | Cloudy       | 70.1°F    | 58.5°F   | 0.0         | Winds up to 12.8 mph        |
-| Sep 29 | Mostly Sunny | 78.1°F    | 59.1°F   | 0.031       | Windy, gusts up to 33.3 mph |
+| Date   | Condition | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)   |
+| :----- | :-------- | :-------- | :------- | :---------- | :------------------- |
+| Sep 23 | Overcast  | 63.1      | 57.7     | 0.0         | Up to 25.1 mph gusts |
+| Sep 24 | Overcast  | 65.0      | 58.0     | 0.0         | Up to 19.2 mph gusts |
+| Sep 25 | Overcast  | 62.5      | 56.3     | 0.0         | Up to 18.1 mph gusts |
+| Sep 26 | Overcast  | 67.4      | 58.1     | 0.0         | Up to 10.7 mph gusts |
+| Sep 27 | Overcast  | 69.2      | 58.6     | 0.0         | Up to 9.8 mph gusts  |
+| Sep 28 | Overcast  | 70.5      | 59.7     | 0.0         | Up to 7.7 mph gusts  |
+| Sep 29 | Rain      | 78.6      | 59.6     | 0.1 inches  | Up to 13.3 mph gusts |
 
-**Notable Weather Events:** Expect generally cloudy conditions throughout the week with highs in the mid-to-upper 60s, warming up toward the end of the forecast period. Be prepared for gusty winds, especially towards the end of the forecast period.
+**Notable Weather Events:** Expect mostly overcast conditions through the middle of the week. A slight chance of light rain is forecasted for the end of the week (September 29th). Wind speeds will be noticeable, with gusts reaching up to 34 mph on the last day listed.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — September 2026)
 
 **Yard & Garden Advice:**
 
-- **Soil Condition:** Given the current temperatures hovering in the low to mid-60s, the soil should be moist but not overly saturated.
-- **Frost Risk:** Frost risk is negligible for the immediate future. However, keep an eye on overnight lows, as they dip into the high 50s, which is typical for this time of year.
-- **Watering Needs:** Water plants moderately, as the forecast shows no significant rainfall, but the humidity is high. Ensure good drainage to prevent waterlogging.
+- **Soil Condition:** Given the recent and ongoing cool temperatures, be cautious about heavy watering. Soil moisture levels may be lower than usual.
+- **Frost Risk:** Frost risk is low for the immediate future, but keep an eye on overnight lows, especially toward the end of the forecast period, as temperatures dip into the high 50s.
+- **Watering Needs:** Water deeply but less frequently. Avoid overhead watering if possible to minimize moisture loss.
 
 **Travel & Driving Outlook:**
 
-- **Highway Conditions:** Be cautious of high wind gusts, particularly on exposed roadways, as gusts are forecast to be strong on the 29th.
-- **Wind/Ice/Fog Watch:** High wind gusts are a factor, so drivers should exercise extra caution when driving high-profile vehicles or in open areas. Visibility should generally be good, but be mindful of potential fog development during the transition periods.
+- **Highway Conditions:** Be prepared for potentially windy conditions, especially on open highways, as gusts are forecast to be significant.
+- **Wind/Ice/Fog Watch:** High wind gusts are possible, so drivers should exercise caution, particularly with high-profile vehicles. Visibility should generally be good, but be aware of potential fog development during the transition periods.
 
 **Clothing Recommendation for Today:**
 
-- Dress in layers. The current temperature is mild, but the high humidity and breezy conditions mean it will feel cooler.
-- Light jackets or long-sleeved shirts are recommended for comfort, especially in the morning and evening. Bring a light sweater or jacket for the cooler nighttime temperatures.
+- Dress in layers. The current temperature is mild, but the high of 63°F combined with high humidity and breezy conditions means it will feel cooler.
+- Bring a light jacket or sweater for comfort, especially in the late afternoon and evening when temperatures dip toward the low 50s. Waterproof outer layers are unnecessary for precipitation, but a light windbreaker is recommended.
 
 </details>
 <!-- WEATHER_REPORT_END -->
