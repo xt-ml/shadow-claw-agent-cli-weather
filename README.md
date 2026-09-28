@@ -22,54 +22,58 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Sep 27, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Sep 28, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Sunday, September 27, 2026 — 09:56 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Monday, September 28, 2026 — 07:34 AM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **09:56 PM CDT on Sunday, September 27, 2026** (local time)
-- Temperature & Feels-like: 55.8°F, Humidity at 87%, Dew Point at 52°F. Conditions are clear with 7% cloud cover.
-- Wind: 4.4 mph from the West-Northwest (336°). Wind gusts up to 6.5 mph.
-- Precipitation Today: 0.0 inches.
+- Station Observation Time: **07:34 AM CDT on Monday, September 28, 2026** (local time)
+- Temperature & Feels-like: 51.2°F, Feels like 48.7°F, Mostly cloudy conditions.
+- Humidity: 94%
+- Dew Point: 49.5°F
+- Wind: 5.8 mph from the West (302°), with gusts up to 13.2 mph.
+- Precipitation Today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 45 (Good).
-- Particulate Matter (PM2.5): 8.4 μg/m³.
-- Particulate Matter (PM10): 8.4 μg/m³.
-- UV Index: 0. **Sun protection is not necessary as the UV index is 0.**
+- European AQI: 39 (Good)
+- PM2.5: 4.1 μg/m³
+- PM10: 4.2 μg/m³
+- UV Index: 0.05 (Very Low) - Minimal sun protection needed.
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)                                  |
-| :----- | :------------ | :-------- | :------- | :---------- | :-------------------------------------------------- |
-| Sep 27 | Mostly Clear  | 69.9°F    | 51.7°F   | 0.0         | Up to 11.9 mph gusts                                |
-| Sep 28 | Cloudy        | 68.1°F    | 50.9°F   | 0.0         | Up to 14.3 mph gusts                                |
-| Sep 29 | Mostly Cloudy | 71.0°F    | 52.7°F   | 0.0         | Up to 23.7 mph gusts (Potential for stronger winds) |
-| Sep 30 | Light Rain    | 83.1°F    | 66.5°F   | 0.0         | Up to 35.1 mph gusts (Highest wind potential)       |
-| Oct 01 | Cool          | 76.6°F    | 61.8°F   | 0.09 inches | Up to 38.5 mph gusts                                |
-| Oct 02 | Mild          | 62.8°F    | 54.3°F   | 0.13 inches | Up to 21.5 mph gusts                                |
-| Oct 03 | Clear         | 60.1°F    | 55.4°F   | 0.0         | Up to 19.5 mph gusts                                |
+| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
+| :----- | :------------ | :-------- | :------- | :---------- | :------------------ |
+| Sep 28 | Mostly Cloudy | 69        | 50.4     | 0.0         | Wind up to 15 mph   |
+| Sep 29 | Mostly Cloudy | 71        | 51.5     | 0.0         | Wind up to 19.8 mph |
+| Sep 30 | Rain          | 78.6      | 63.0     | 0.0         | Wind up to 35.1 mph |
+| Oct 01 | Heavy Rain    | 76.6      | 60.2     | 1.0         | Wind up to 35.8 mph |
+| Oct 02 | Rain          | 59.7      | 53.0     | 0.45        | Wind up to 23.9 mph |
+| Oct 03 | Rain          | 62.0      | 54.6     | 0.0         | Wind up to 21.3 mph |
+| Oct 04 | Rain          | 68.6      | 58.8     | 0.0         | Wind up to 23.9 mph |
 
-**Notable Weather Events:** Expect a significant spike in wind speeds, particularly around September 30th, with gusts potentially reaching 35 mph. There is a slight chance of light rain around October 1st and 2nd. Temperatures will fluctuate, with a high of 83.1°F forecasted for September 30th.
+**Notable Weather Events:** Expect a significant period of rain, particularly around October 1st, with potential for heavier rainfall. Wind speeds are forecast to be elevated, with gusts reaching up to 35.8 mph on October 1st.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — September 2026)
 
 **Yard & Garden Advice:**
 
-- **Soil Condition:** Given the recent mild temperatures and the forecast for higher highs, soil moisture should be adequate, but be mindful of potential dryness during the windy period.
-- **Frost Risk:** Frost risk is low for the immediate future, but keep an eye on overnight lows, as temperatures dip into the low 50s.
-- **Watering Needs:** Water plants moderately, focusing on deep watering rather than frequent shallow watering, especially as wind speeds increase.
+- **Soil Condition:** With recent and upcoming rain, soil moisture levels should be adequate. Avoid heavy watering unless soil is extremely dry, as the forecast indicates wet conditions.
+- **Frost Risk:** Frost risk is low for the immediate future, but be mindful of overnight lows dipping into the low 50s. Protect sensitive plants if temperatures drop significantly.
+- **Watering Needs:** Keep a close eye on the forecast for sustained wet periods.
 
 **Travel & Driving Outlook:**
 
-- **Highway Conditions:** Be prepared for potentially strong crosswinds, especially on the 30th. Drivers should exercise caution on highways due to high wind gusts.
-- **Wind/Ice/Fog Watch:** High wind gusts are forecast, which may lead to some localized disruptions. Drivers should check road conditions before long trips.
+- **Highway Conditions:** Be prepared for slick roads, especially following the forecasted rain events. Reduce speed on highways, particularly during and after the heavy rain predicted for October 1st.
+- **Wind/Ice/Fog Watch:** High wind gusts are forecasted, which could lead to some localized debris or reduced visibility. Drive cautiously, especially when traveling in open areas.
 
 **Clothing Recommendation for Today:**
 
-- Since the current temperature is in the mid-50s and humidity is high (87%), dress in layers. A light jacket or sweater will be comfortable for the evening, but be prepared for cooler conditions as the night progresses. Keep layers handy for the fluctuating temperatures throughout the week.
+- Dress in layers. The current temperature is mild, but the high of 78.6°F suggests warm afternoons.
+- Since the humidity is high (94%), the air might feel muggy. Bring a light jacket or sweater for the cooler morning and evening hours.
+- Prepare for potential rain showers throughout the week, so waterproof outerwear is recommended.
 
 </details>
 <!-- WEATHER_REPORT_END -->
