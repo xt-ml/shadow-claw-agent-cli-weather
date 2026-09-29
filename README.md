@@ -22,55 +22,47 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Sep 28, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Sep 29, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Monday, September 28, 2026 — 10:37 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Tuesday, September 29, 2026 — 06:55 AM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **10:37 PM CDT on Monday, September 28, 2026**
-- Temperature & Feels-like: 58.6°F, Feels like 57.4°F, Mostly clear conditions.
-- Humidity: 84%
-- Dew Point: 53.8°F
-- Wind: 5.7 mph from the East (111°), with gusts up to 7.4 mph.
+- Station Observation Time: **06:55 AM CDT on Tuesday, September 29, 2026** (local time)
+- Temperature & Feels-like: 55.6°F, Feels like 56.9°F, Overcast conditions, 99% Humidity, Dew Point 55.3°F. Light breeze from the West at 1 mph with gusts up to 2 mph.
 - Precipitation Today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 61 (Moderate)
-- PM2.5: 15.3 μg/m³
-- PM10: 15.4 μg/m³
-- UV Index: 0 (No sun protection advice needed as it is late evening)
+- European AQI: 59 (Moderate air quality. Unpleasant or harmful to a very small number of people.)
+- PM2.5: 24.7 μg/m³
+- PM10: 24.7 μg/m³
+- UV Index: 0 (No sun protection advice needed as the UV index is zero.)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition  | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
-| :----- | :--------- | :-------- | :------- | :---------- | :------------------ |
-| Sep 29 | Rain       | 73.8°F    | 51.3°F   | 0.0 inches  | Wind up to 7.7 mph  |
-| Sep 30 | Cloudy     | 68.5°F    | 60.5°F   | 0.26 inches | Wind up to 8.3 mph  |
-| Oct 1  | Rain       | 67.6°F    | 62.9°F   | 1.12 inches | Wind up to 13.0 mph |
-| Oct 2  | Cooler     | 66.0°F    | 59.0°F   | 0.01 inches | Wind up to 12.4 mph |
-| Oct 3  | Light Rain | 67.6°F    | 56.4°F   | 0.01 inches | Wind up to 10.4 mph |
-| Oct 4  | Light Rain | 65.0°F    | 57.0°F   | 0.0 inches  | Wind up to 12.6 mph |
+| Date   | Condition  | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)        |
+| :----- | :--------- | :-------- | :------- | :---------- | :------------------------ |
+| Sep 29 | Overcast   | 74.8°F    | 53.6°F   | 0.0         | Wind up to 17.7 mph gusts |
+| Sep 30 | Rain       | 69.9°F    | 59.6°F   | 0.21        | Wind up to 28.4 mph gusts |
+| Oct 01 | Heavy Rain | 67.2°F    | 64.0°F   | 0.99        | Wind up to 35.3 mph gusts |
+| Oct 02 | Heavy Rain | 64.9°F    | 58.4°F   | 0.47        | Wind up to 28.2 mph gusts |
+| Oct 03 | Light Rain | 64.7°F    | 55.7°F   | 0.0         | Wind up to 18.3 mph gusts |
+| Oct 04 | Windy      | 65.3°F    | 57.5°F   | 0.02        | Wind up to 13.6 mph gusts |
+| Oct 05 | Clear      | 53.0°F    | 53.0°F   | 0.0         | Wind up to 14.3 mph gusts |
 
-**Notable Weather Events:** Expect a chance of rain, with the heaviest precipitation forecasted for October 1st. Wind speeds are expected to increase significantly around October 1st, with gusts potentially reaching 34.9 mph.
+**Notable Weather Events:** Expect a significant period of rain, particularly through the night of September 30th and into October 1st, with heavy rainfall predicted. Wind speeds are expected to be strong, especially around the transition into the next day.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — September 2026)
 
 **Yard & Garden Advice:**
-
-- **Soil Condition:** Given the recent and upcoming rainfall, soil moisture levels should be adequate. Avoid heavy watering immediately following the forecasted rain.
-- **Frost Risk:** Frost risk is low for the immediate future, but temperatures are dropping overnight. Be mindful of frost in uninsulated or sensitive plants, especially during the cooler nights predicted around October 2nd.
-- **Watering Needs:** Maintain regular, deep watering as the weather transitions into a wetter period.
+Given the recent and upcoming rainfall, the soil moisture levels should be adequate. Be mindful of potential surface saturation. Avoid heavy watering immediately following the predicted rain. Frost risk is low for the immediate future, but keep an eye on overnight lows, as temperatures are expected to dip into the mid-50s.
 
 **Travel & Driving Outlook:**
-
-- **Highway Conditions:** Be prepared for slick roads, particularly on October 1st, as significant rainfall is forecasted. Reduce speed on highways and exercise caution during periods of heavy rain.
-- **Wind/Ice/Fog Watch:** High wind gusts are anticipated, especially around the beginning of the forecast period. Drivers should be cautious of high crosswinds and potential reduced visibility due to wind.
+Be prepared for slick road conditions, especially on unpaved surfaces, due to recent and ongoing rain. High wind gusts are forecasted, which could lead to reduced visibility and potential travel disruptions. Drive cautiously, paying close attention to road signs and potential hydroplaning risks.
 
 **Clothing Recommendation for Today:**
-
-- Since the current temperature is mild (low to mid-50s), dress in layers. A light jacket or sweater is recommended for the evening, as the temperature is expected to drop into the upper 50s overnight. Keep an umbrella handy for the forecasted rain later in the week.
+Dress in layers. With current temperatures in the mid-50s and high humidity, it will feel cool and damp. Bring a waterproof jacket or umbrella, as rain is expected throughout the day. Prepare for cooler conditions as the day progresses.
 
 </details>
 <!-- WEATHER_REPORT_END -->
