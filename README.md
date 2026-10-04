@@ -22,51 +22,50 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Oct 3, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Oct 4, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Saturday, October 03, 2026 — 10:42 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Sunday, October 04, 2026 — 06:37 AM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **10:42 PM CDT on Saturday, October 03, 2026** (local time)
-- Temperature & Feels-like: 55.7°F, Feels like 53.3°F, Cloudy conditions, 81% Humidity, Dew Point 50°F. Light wind is blowing from the East at 5.7 mph, with gusts up to 16.6 mph. No precipitation is currently forecasted.
+- Station Observation Time: **06:37 AM CDT on Sunday, October 04, 2026**
+- Temperature & Feels-like: 50.5°F, Apparent Temperature of 46°F, Overcast conditions.
+- Humidity: 82%
+- Dew Point: 45.2°F
+- Wind: 7.7 mph from the West (238°), with gusts up to 14.5 mph.
+- Precipitation Today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 52 (Good)
-- Particulate Matter (PM2.5): 11.5 μg/m³
-- Particulate Matter (PM10): 11.5 μg/m³
-- UV Index: 0 (No sun protection advice needed as the forecast is for night/early morning)
+- European AQI: 41 (Good)
+- PM2.5: 5.2 μg/m³
+- PM10: 5.3 μg/m³
+- UV Index: 0 (No sun protection advice needed as the index is zero)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)   |
-| :----- | :-------- | :-------- | :------- | :---------- | :------------------- |
-| Oct 03 | Cloudy    | 66.8°F    | 51.5°F   | 0.0         | Winds up to 15 mph   |
-| Oct 04 | Cloudy    | 67.6°F    | 51.6°F   | 0.0         | Winds up to 22.1 mph |
-| Oct 05 | Clear     | 61.7°F    | 44.5°F   | 0.0         | Winds up to 19.7 mph |
-| Oct 06 | Cloudy    | 73.2°F    | 54.5°F   | 0.0         | Winds up to 29.5 mph |
-| Oct 07 | Cloudy    | 74.6°F    | 60.4°F   | 0.0         | Winds up to 28.6 mph |
-| Oct 08 | Cloudy    | 69.8°F    | 58.0°F   | 0.0         | Winds up to 14.3 mph |
-| Oct 09 | Cloudy    | 69.0°F    | 54.7°F   | 0.0         | Winds up to 9.6 mph  |
+| Date   | Condition  | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)   |
+| :----- | :--------- | :-------- | :------- | :---------- | :------------------- |
+| Oct 04 | Cloudy     | 68        | 50.5     | 0.0         | Up to 19.9 mph gusts |
+| Oct 05 | Light Rain | 60.3      | 47.8     | 0.0         | Up to 21.3 mph gusts |
+| Oct 06 | Cloudy     | 72.3      | 52.4     | 0.0         | Up to 28.6 mph gusts |
+| Oct 07 | Cloudy     | 76.8      | 61.1     | 0.0         | Up to 28.0 mph gusts |
+| Oct 08 | Cloudy     | 67.2      | 58.6     | 0.0         | Up to 24.4 mph gusts |
+| Oct 09 | Cloudy     | 69.6      | 59.0     | 0.0         | Up to 21.7 mph gusts |
+| Oct 10 | Light Rain | 77.0      | 59.6     | 0.0         | Up to 27.1 mph gusts |
 
-**Notable Weather Events:** Expect a significant temperature swing, with highs reaching into the mid-70s on October 6th and 7th. Wind speeds are forecast to be notably higher mid-week, with gusts potentially reaching up to 29.5 mph on October 6th.
+**Notable Weather Events:** Expect a transition into cooler temperatures over the next few days, with a chance of light rain on the 5th and 10th. Wind speeds are forecast to be breezy, with gusts reaching up to 28 mph on the 6th and 7th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
 **Yard & Garden Advice:**
-
-- **Frost Risk:** Given the overnight lows dipping into the mid-40s on October 5th, be prepared for potential light frost, especially in low-lying areas or against sensitive plants. Cover delicate seedlings if temperatures drop near freezing.
-- **Soil Condition:** Soil moisture should be adequate, but avoid heavy watering if the ground is already damp, as the forecast shows dry periods interspersed with warmer days.
+Given the current temperatures hovering in the low to mid-50s, be mindful of potential overnight frost, especially in shaded areas. Soil moisture should be monitored; avoid heavy watering if the forecast remains dry, as the upcoming days suggest cooler, potentially drier conditions.
 
 **Travel & Driving Outlook:**
-
-- **Wind Advisory:** Be cautious during travel, particularly on highways, as wind gusts are forecast to be strong, peaking near 30 mph on October 6th. Secure loose outdoor items.
-- **Road Conditions:** No major precipitation is expected, but strong winds could lead to some localized debris or reduced visibility. Drive with caution, especially when driving high-profile vehicles.
+Be prepared for breezy conditions throughout the week, with wind gusts potentially reaching the upper 20s mph. Drivers should exercise caution, particularly on highways, regarding high winds. Visibility may be slightly reduced due to cloud cover.
 
 **Clothing Recommendation for Today:**
-
-- Since the current temperature is cool (around 56°F) with high humidity, dress in layers. A medium-weight jacket or sweater is recommended for comfort, especially as the night progresses. Keep layers handy as the temperature is forecast to rise significantly over the next few days.
+Dress in layers. With a current temperature around 50°F and a dew point of 45°F, the air will feel cool. A light jacket or sweater is recommended for comfort, especially during the morning and evening hours. Prepare for cooler conditions as the week progresses.
 
 </details>
 <!-- WEATHER_REPORT_END -->
