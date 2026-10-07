@@ -24,40 +24,39 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Oct 6, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Tuesday, October 06, 2026 — 05:06 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Tuesday, October 06, 2026 — 10:39 PM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **05:06 PM CDT on Tuesday, October 06, 2026** (local time)
-- Temperature & feels-like: 72.4°F, Partly cloudy, 35% humidity, 43.2°F dew point, wind 10.9 mph from 223°, with gusts up to 21.3 mph.
+- Station Observation Time: **10:39 PM CDT on Tuesday, October 06, 2026** (local time)
+- Temperature & feels-like: 58.1°F, Partly cloudy, 65% humidity, 12.7°F dew point, wind 6.9 mph from 205°, 17 mph gusts.
 - Precipitation today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 38
-- PM2.5: 6.6 μg/m³
-- PM10: 6.6 μg/m³
-- UV Index: 0.4 (Low risk; minimal sun protection needed)
+- European AQI: 36 (Good air quality)
+- PM2.5: 5.7 μg/m³
+- PM10: 5.7 μg/m³
+- UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
 | Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
 | :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Oct 6  | Partly cloudy | 74.3      | 47.8     | 0.0         | 14.3 / 21.3        |
-| Oct 7  | Overcast      | 69.9      | 53.9     | 0.0         | 10.9 / 22.4        |
-| Oct 8  | Overcast      | 69.0      | 49.2     | 0.008       | 11.0 / 30.2        |
-| Oct 9  | Light drizzle | 69.8      | 58.1     | 0.0         | 11.6 / 37.4        |
-| Oct 10 | Overcast      | 84.7      | 66.0     | 0.0         | 12.7 / 38.7        |
-| Oct 11 | Overcast      | 75.7      | 63.3     | 0.0         | 12.6 / 32.2        |
-| Oct 12 | Overcast      | 69.2      | 57.8     | 0.0         | 12.7 / 13.0        |
+| Oct 07 | Clear sky     | 79.4      | 55.3     | 0.0         | 11 / 23            |
+| Oct 08 | Overcast      | 67.9      | 47.9     | 0.008       | 9.8 / 25.5         |
+| Oct 09 | Light drizzle | 71.6      | 60.0     | 0.0         | 9.7 / 33.3         |
+| Oct 10 | Overcast      | 84.9      | 65.3     | 0.0         | 11 / 31.5          |
+| Oct 11 | Overcast      | 74.6      | 62.1     | 0.0         | 15.1 / 28.4        |
+| Oct 12 | Overcast      | 78.7      | 61.4     | 0.0         | 9.8 / 19.5         |
 
-**Notable weather events:** Expect a slight chance of light drizzle on October 9th. High temperatures are forecasted around October 10th. Wind gusts are expected to be strong, particularly on October 9th and 10th.
+**Notable weather events:** Expect a slight chance of light drizzle on October 9th. Wind speeds are expected to be moderate to high, with gusts reaching up to 33.3 mph on October 9th. Temperatures will fluctuate, with a high of 84.9°F forecasted for October 10th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
-- **Yard & garden advice:** Soil conditions should remain stable, but be mindful of potential frost risk during the overnight lows, especially toward the beginning of the forecast period. Water plants moderately, as the forecast shows no significant rainfall.
-- **Travel & driving outlook:** Be cautious of strong wind gusts, especially on the 9th and 10th, which could impact driving conditions. Roads may experience some wind-related slowdowns.
-- **Clothing recommendation for today:** Dress in layers. With a current temperature of 72.4°F and a dew point of 43.2°F, the air will feel comfortable, but the wind gusts suggest keeping a light jacket handy. Prepare for cooler mornings and evenings as the forecast shows lows dipping into the upper 40s.
+- **Yard & garden advice:** Soil conditions should remain stable, but be mindful of potential frost risk, especially overnight, given the cool lows. Water plants moderately, as the forecast shows no significant rainfall.
+- **Travel & driving outlook:** Be prepared for breezy conditions, particularly on the 11th, with wind gusts potentially reaching 28.4 mph. Drivers should exercise caution on highways due to strong winds.
+- **Clothing recommendation for today:** Dress in layers. With a current temperature of 58.1°F and a dew point of 46.4°F, it will feel comfortable, but bring a jacket for the evening, as conditions may cool down slightly overnight.
 
 </details>
 <!-- WEATHER_REPORT_END -->
