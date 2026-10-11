@@ -24,40 +24,39 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Oct 11, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Sunday, October 11, 2026 — 12:09 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Sunday, October 11, 2026 — 04:20 PM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **12:09 PM CDT on Sunday, October 11, 2026** (local time)
-- Temperature & feels-like: 67.0°F, Partly cloudy, 83% humidity, 55.6°F dew point, wind 2.6 mph from 105°, 2.7 mph gusts
-- Precipitation today: 0.0 inches
+- Station Observation Time: **04:20 PM CDT on Sunday, October 11, 2026** (local time)
+- Temperature & feels-like: 70.2°F / 72.1°F, Mainly clear conditions. Humidity is 75%, with a dew point of 61.9°F. Wind is blowing from 108° at 5.5 mph, with gusts up to 8.9 mph. There is no precipitation reported today.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 39
-- PM2.5: 14.3 μg/m³
-- PM10: 15 μg/m³
-- UV Index: 4.3 (Wear sun protection as this level warrants caution)
+- European AQI: 42
+- Particulate Matter (PM2.5): 17.9 μg/m³
+- Particulate Matter (PM10): 18.9 μg/m³
+- UV Index: 1.15 (Low risk; light sun protection may be advised)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition             | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
-| :----- | :-------------------- | :-------- | :------- | :---------- | :----------------- |
-| Oct 11 | Partly cloudy         | 69        | 55.6     | 0.0         | 2.7 / 16.3         |
-| Oct 12 | Overcast              | 86.4      | 57.7     | 0.0         | 26.8 / 30.2        |
-| Oct 13 | Moderate drizzle      | 82.2      | 68.7     | 0.035       | 30.2 / 23.9        |
-| Oct 14 | Slight rain showers   | 68        | 57.7     | 0.091       | 23.9 / 15.1        |
-| Oct 15 | Moderate rain showers | 60.9      | 55.5     | 0.362       | 15.1 / 13.7        |
-| Oct 16 | Slight rain           | 57.4      | 37.6     | 0.102       | 21.3 / 21.3        |
-| Oct 17 | Mainly clear          | 44.6      | 34.0     | 0.0         | 19.3 / 19.3        |
+| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
+| :----- | :------------ | :-------- | :------- | :---------- | :------------------ |
+| Oct 11 | Overcast      | 71.7      | 55.6     | 0.00        | Wind up to 16.3 mph |
+| Oct 12 | Overcast      | 86.5      | 59.0     | 0.00        | Wind up to 28.2 mph |
+| Oct 13 | Light Drizzle | 82.9      | 65.7     | 0.02        | Wind up to 29.8 mph |
+| Oct 14 | Moderate Rain | 68.9      | 58.4     | 0.19        | Wind up to 21.7 mph |
+| Oct 15 | Moderate Rain | 60.4      | 56.6     | 0.60        | Wind up to 20.8 mph |
+| Oct 16 | Light Drizzle | 57.3      | 40.0     | 0.02        | Wind up to 32.2 mph |
+| Oct 17 | Partly Cloudy | 48.7      | 35.6     | 0.00        | Wind up to 28.4 mph |
 
-**Notable weather events:** Expect a significant temperature drop, with the coldest forecasted low of 34.0°F on October 17th. There is a chance of light to moderate rain throughout the middle of the week. Wind speeds are expected to peak around October 12th.
+**Notable weather events:** Expect a significant temperature drop, with lows dipping into the mid-30s by the end of the week. There is a chance of light drizzle through the middle of the week, increasing to moderate rain on Thursday and Friday. Wind speeds are forecast to be strong, peaking on the 16th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
-- **Yard & garden advice:** Be prepared for potential frost, especially overnight, as temperatures dip into the mid-30s by the end of the week. Water deeply if plants are sensitive, as the soil may be drying out during periods of cooler, drier weather.
-- **Travel & driving outlook:** Be cautious of strong wind gusts, particularly around October 12th and 16th, which could affect driving conditions. Roads may experience slick spots due to recent precipitation.
-- **Clothing recommendation for today:** Dress in layers. While the current temperature is mild, the forecast shows a significant drop overnight and cooler conditions later in the week. Bring a warm jacket or sweater for the evening.
+- **Yard & garden advice:** Be prepared for potential frost, especially overnight, as temperatures are forecasted to drop into the 30s. Water deeply if plants are sensitive, as the forecast includes periods of rain.
+- **Travel & driving outlook:** Expect strong winds, particularly on the 16th, which could lead to rough driving conditions. Be cautious of potential slick spots due to recent rain.
+- **Clothing recommendation for today:** Dress in layers. While the current temperature is mild, the forecast shows a significant drop overnight, so a warm jacket or sweater is recommended for the evening. Prepare for cooler, damp conditions later in the week.
 
 </details>
 <!-- WEATHER_REPORT_END -->
