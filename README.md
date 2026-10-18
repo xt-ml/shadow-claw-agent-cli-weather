@@ -22,42 +22,41 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Oct 17, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Oct 18, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Saturday, October 17, 2026 — 09:28 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Sunday, October 18, 2026 — 05:11 AM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **09:28 PM CDT on Saturday, October 17, 2026** (local time)
-- Temperature & feels-like: 44.4°F, Partly cloudy, 75% humidity, 37.0°F dew point, wind 6.1 mph from 197°, 18.1 mph gusts
-- Precipitation today: 0.0 inches
+- Station Observation Time: **05:11 AM CDT on Sunday, October 18, 2026** (local time)
+- Temperature & feels-like: 39.2°F / 32.3°F, Clear sky conditions, 75% humidity, Dew Point: 31.9°F, Wind: 7.1 mph from 199°, Gusts up to 18.8 mph. No precipitation is currently reported.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 47
-- PM2.5: 7.8 μg/m³
-- PM10: 7.9 μg/m³
+- European AQI: 35 (Good air quality)
+- PM2.5: 3.7 μg/m³
+- PM10: 3.8 μg/m³
 - UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
 | Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
 | :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Oct 17 | Overcast      | 55.9      | 37.3     | 0.0         | Max 28.4 / 26.2    |
-| Oct 18 | Clear sky     | 62.6      | 38.1     | 0.0         | Max 26.2 / 19.2    |
-| Oct 19 | Overcast      | 63.8      | 40.3     | 0.0         | Max 19.2 / 18.6    |
-| Oct 20 | Overcast      | 63.9      | 55.0     | 0.0         | Max 9.2 / 18.3     |
-| Oct 21 | Clear sky     | 68.5      | 53.9     | 0.0         | Max 8.1 / 18.6     |
-| Oct 22 | Light drizzle | 68.5      | 57.1     | 0.004       | Max 5.6 / 18.1     |
-| Oct 23 | Overcast      | 69.9      | 57.3     | 0.0         | Max 22.6 / 19.7    |
+| Oct 18 | Clear sky     | 61°F      | 37.2°F   | 0.0         | Max 27.5 mph       |
+| Oct 19 | Partly cloudy | 61.4°F    | 40°F     | 0.0         | Max 19.7 mph       |
+| Oct 20 | Partly cloudy | 64°F      | 54.8°F   | 0.0         | Max 8.7 mph        |
+| Oct 21 | Clear sky     | 68.7°F    | 54°F     | 0.0         | Max 6.0 mph        |
+| Oct 22 | Partly cloudy | 70.5°F    | 56.9°F   | 0.0         | Max 4.7 mph        |
+| Oct 23 | Partly cloudy | 70.1°F    | 62.2°F   | 0.0         | Max 22.4 mph       |
+| Oct 24 | Partly cloudy | 72.6°F    | 60.9°F   | 0.0         | Max 30.2 mph       |
 
-**Notable weather events:** Expect a mix of overcast conditions through the middle of the week, with a slight chance of light drizzle forecasted for October 22nd. Wind speeds will be moderate, peaking around 28 mph on the first day.
+- Notable weather events: Expect a gradual warming trend through the week, with partly cloudy skies dominating. Wind speeds will fluctuate, peaking on the first and last days of the forecast period. No significant rain or snow is forecasted.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
-- **Yard & garden advice:** Soil conditions should remain stable, but be mindful of potential frost risk overnight, especially during the cooler nights forecasted. Water plants moderately, as the forecast shows no significant rainfall.
-- **Travel & driving outlook:** Be prepared for gusty winds, particularly on the first day. Highway conditions should be generally good, but watch for potential slick spots due to wind. No significant ice or fog is currently indicated.
-- **Clothing recommendation for today:** Dress in layers. Temperatures will fluctuate significantly, with highs in the high 60s and lows dipping into the upper 30s. A jacket or sweater is recommended for the evening and early morning.
+- **Yard & garden advice**: Soil conditions should remain stable, but be mindful of potential overnight frost, especially on cooler nights. Water deeply if plants are sensitive, as daytime temperatures are mild.
+- **Travel & driving outlook**: Highway conditions are expected to be generally good, though watch for potential high wind gusts (up to 30 mph) on the edges of the forecast period, which could affect driving stability. Fog is not currently indicated.
+- **Clothing recommendation for today**: Dress in layers. Daytime temperatures will be pleasant, but expect cooler mornings and evenings, especially when outdoors, given the low overnight temperatures. A light jacket or sweater is recommended.
 
 </details>
 <!-- WEATHER_REPORT_END -->
