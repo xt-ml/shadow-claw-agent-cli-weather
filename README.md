@@ -22,42 +22,41 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Oct 18, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Oct 19, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Sunday, October 18, 2026 — 09:42 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Monday, October 19, 2026 — 06:46 AM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **09:42 PM CDT on Sunday, October 18, 2026** (local time)
-- Temperature & feels-like: 48.3°F, Partly cloudy, 67% humidity, 37.9°F dew point, wind speed 6.7 mph from 190°, with gusts up to 16.1 mph.
-- Precipitation today: 0.0 inches
+- Station Observation Time: **06:46 AM CDT on Monday, October 19, 2026** (local time)
+- Temperature & feels-like: 40.0°F, Partly cloudy, 86% humidity, 36.1°F dew point, wind speed 5 mph from the West (205°), 9.6 mph gusts. No precipitation is currently reported.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 45 (Moderate air quality)
-- PM2.5: 8.1 μg/m³
-- PM10: 8.4 μg/m³
+- European AQI: 46
+- PM2.5: 5.1 μg/m³
+- PM10: 5.2 μg/m³
 - UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
-| :----- | :-------- | :-------- | :------- | :---------- | :----------------- |
-| Oct 18 | Clear sky | 64.4      | 38.3     | 0.0         | 24.6 / 17          |
-| Oct 19 | Overcast  | 63.5      | 41.2     | 0.0         | 17 / 17            |
-| Oct 20 | Overcast  | 60.6      | 44.6     | 0.0         | 9.6 / 16.3         |
-| Oct 21 | Clear sky | 68.7      | 54.1     | 0.0         | 5.8 / 14.8         |
-| Oct 22 | Overcast  | 69.8      | 57.0     | 0.0         | 5.1 / 13.9         |
-| Oct 23 | Overcast  | 70.1      | 57.9     | 0.0         | 8 / 13.0           |
-| Oct 24 | Overcast  | 71.8      | 59.2     | 0.0         | 12 / 21.7          |
+| Date   | Condition | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)         |
+| :----- | :-------- | :-------- | :------- | :---------- | :------------------------- |
+| Oct 19 | Overcast  | 62.7      | 39.7     | 0.0         | Wind 5-17 mph              |
+| Oct 20 | Foggy     | 59.6      | 39.9     | 0.0         | Wind 6-10.1 mph            |
+| Oct 21 | Clear sky | 69.6      | 54.3     | 0.0         | Wind 5-6.6 mph             |
+| Oct 22 | Overcast  | 71.2      | 57.9     | 0.0         | Wind 5-5.4 mph             |
+| Oct 23 | Overcast  | 70.8      | 58.0     | 0.0         | Wind 7-21.5 mph (Gusty)    |
+| Oct 24 | Overcast  | 72.2      | 58.1     | 0.0         | Wind 8.8-27.7 mph (Gusty)  |
+| Oct 25 | Overcast  | 69.4      | 60.0     | 0.0         | Wind 10.8-35.6 mph (Gusty) |
 
-**Notable weather events:** Expect partly cloudy to overcast conditions throughout the week. Wind speeds are expected to be moderate, with gusts reaching up to 31.8 mph on the final day. No significant rain or snow is forecasted.
+- **Notable weather events**: Expect a significant temperature swing, with highs reaching into the 70s°F. Wind speeds are forecast to be notably gusty, especially towards the end of the week, with gusts potentially reaching up to 35.6 mph on October 25th. No significant rain or snow is anticipated.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
-- **Yard & garden advice:** Soil conditions should remain stable, but be mindful of potential frost risk, especially overnight, given the cool lows dipping into the upper 30s°F. Water deeply if plants are sensitive, but avoid heavy watering if rain is not forecast.
-- **Travel & driving outlook:** Be prepared for breezy conditions, particularly toward the end of the week, with wind gusts potentially reaching 31.8 mph. Drivers should exercise caution on highways due to potential wind-related hazards.
-- **Clothing recommendation for today:** Dress in layers. The current temperature is mild, but the apparent temperature suggests it will feel cooler. A light jacket or sweater is recommended for the evening and night.
+- **Yard & garden advice**: Soil conditions should remain stable, but be mindful of potential frost risk overnight, especially given the cool overnight lows dipping into the upper 30s°F. Water deeply if plants are stressed, but avoid heavy watering if soil is already damp.
+- **Travel & driving outlook**: Be prepared for variable wind conditions throughout the week, with strong gusts possible on the latter half of the forecast period. Drivers should exercise caution on highways due to potential high wind gusts. Fog is noted for the second day.
+- **Clothing recommendation for today**: Dress in layers. The current temperature is mild, but the high for the week reaches the low 70s°F. Bring a medium jacket or sweater for the cooler mornings and evenings, as the wind will feel brisk with strong gusts.
 
 </details>
 <!-- WEATHER_REPORT_END -->
