@@ -24,36 +24,40 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Oct 29, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Thursday, October 29, 2026 — 05:16 PM CDT
+# Weather Briefing — Chicago, Illinois, United States — Thursday, October 29, 2026 — 10:52 PM CDT
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **05:16 PM CDT on Thursday, October 29, 2026** (local time)
-- Temperature & feels-like: 63.5°F, Partly cloudy, Humidity: 74%, Dew Point: 55.1°F, Wind: 3.4 mph from 10, with gusts up to 11.2 mph. Precipitation today: 0.0 inches.
+- Station Observation Time: **10:52 PM CDT on Thursday, October 29, 2026** (local time)
+- Temperature & feels-like: 50.6°F, Partly cloudy, 67% humidity, 40°F dew point, wind speed 5.4 mph from the 306° direction with gusts up to 8.7 mph.
+- Precipitation today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 39, PM2.5: 6.4 μg/m³, PM10: 6.4 μg/m³, UV Index: 0.15 (Low risk, minimal sun protection needed).
+- European AQI: 57
+- PM2.5: 9.5 μg/m³
+- PM10: 9.7 μg/m³
+- UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition        | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)     |
-| :----- | :--------------- | :-------- | :------- | :---------- | :--------------------- |
-| Oct 29 | Overcast         | 69.5      | 48.6     | 0.0         | Wind 10.8 / Gusts 30   |
-| Oct 30 | Overcast         | 56.6      | 47.8     | 0.0         | Wind 12.2 / Gusts 21.3 |
-| Oct 31 | Light Drizzle    | 59.5      | 52.2     | 0.02        | Wind 12.1 / Gusts 19.7 |
-| Nov 01 | Overcast         | 63.9      | 57.0     | 0.06        | Wind 10.1 / Gusts 16.3 |
-| Nov 02 | Moderate Drizzle | 60.2      | 57.1     | 0.02        | Wind 8.8 / Gusts 23.5  |
-| Nov 03 | Light Drizzle    | 68.3      | 59.0     | 0.04        | Wind 11.8 / Gusts 32.2 |
-| Nov 04 | Mainly Clear     | 68.0      | 55.9     | 0.17        | Wind 9.7 / Gusts 28.9  |
+| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
+| :----- | :------------ | :-------- | :------- | :---------- | :------------------ |
+| Oct 29 | Overcast      | 69.5      | 49.0     | 0.00        | Wind up to 30 mph   |
+| Oct 30 | Overcast      | 57.1      | 46.1     | 0.00        | Wind up to 22.1 mph |
+| Oct 31 | Light drizzle | 59.3      | 50.3     | 0.15        | Wind up to 19.9 mph |
+| Nov 01 | Moderate rain | 58.3      | 56.2     | 0.17        | Wind up to 15 mph   |
+| Nov 02 | Light drizzle | 59.7      | 56.9     | 0.11        | Wind up to 24.4 mph |
+| Nov 03 | Slight rain   | 66.6      | 59.1     | 0.03        | Wind up to 31.1 mph |
+| Nov 04 | Light drizzle | 63.4      | 59.8     | 0.04        | Wind up to 27.3 mph |
 
-**Notable weather events:** Expect a mix of overcast conditions throughout the week, with a chance of light drizzle on Tuesday and a slight chance of rain later in the week. Wind gusts could be notable on Wednesday.
+**Notable weather events:** Expect a transition to rain starting on October 31st, with potential for moderate rainfall throughout the week. Wind speeds are forecast to be elevated, with gusts reaching up to 31.1 mph on November 3rd.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — October 2026)
 
-- **Yard & garden advice:** Soil conditions should remain relatively stable, but be mindful of potential frost risk, especially overnight, given the cool lows. Water plants moderately, as the forecast indicates a slight chance of precipitation.
-- **Travel & driving outlook:** Be prepared for variable wind conditions, with potential for higher gusts on Wednesday. Roads may be damp due to light drizzle. Exercise caution when driving, especially on highways, due to potential wind gusts.
-- **Clothing recommendation for today:** Dress in layers. Expect temperatures in the low to mid-60s, so light jackets or sweaters are recommended. Keep an umbrella handy for the slight chance of drizzle.
+- **Yard & garden advice:** Soil conditions should remain moist due to the forecasted rain. Be mindful of potential mold or mildew growth in damp areas. Avoid heavy watering as rain is expected.
+- **Travel & driving outlook:** Be prepared for wet roads and slick conditions, especially during periods of rain. High wind gusts are forecasted, so secure loose outdoor items.
+- **Clothing recommendation for today:** Given the current temperature around 50°F and high humidity, dress in layers. A light jacket or sweater is recommended for comfort. Prepare for cooler conditions overnight.
 
 </details>
 <!-- WEATHER_REPORT_END -->
