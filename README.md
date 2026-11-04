@@ -24,39 +24,39 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Nov 3, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Tuesday, November 03, 2026 — 04:45 PM CST
+# Weather Briefing — Chicago, Illinois, United States — Tuesday, November 03, 2026 — 10:17 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **04:45 PM CST on Tuesday, November 03, 2026** (local time)
-- Temperature & feels-like: 66.2°F / 66.6°F, Overcast conditions, 81% humidity, Dew Point: 60.2°F, Wind: 7.2 mph from the 172° direction with gusts up to 15.2 mph. Precipitation today: 0.0 inches.
+- Station Observation Time: **10:17 PM CST on Tuesday, November 03, 2026** (local time)
+- Temperature & feels-like: 65.9°F, Overcast conditions, 80% humidity, Dew Point: 59.5°F, Wind: 10.3 mph from 166°, Gusts up to 19.9 mph. Precipitation today: 0.0 inches.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 28 (Good air quality)
-- PM2.5: 8.8 μg/m³
-- PM10: 10.9 μg/m³
-- UV Index: 0.1 (Very low risk; minimal sun protection needed)
+- European AQI: 25 (Good air quality)
+- PM2.5: 5.8 μg/m³
+- PM10: 7 μg/m³
+- UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date  | Condition        | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
-| :---- | :--------------- | :-------- | :------- | :---------- | :----------------- |
-| Nov 3 | Light Drizzle    | 72.4      | 60.0     | 0.02        | 35.8 / 35.8        |
-| Nov 4 | Moderate Drizzle | 64.8      | 49.9     | 0.10        | 33.3 / 33.3        |
-| Nov 5 | Light Drizzle    | 53.7      | 46.4     | 0.035       | 28.9 / 28.9        |
-| Nov 6 | Overcast         | 48.4      | 42.4     | 0.00        | 15.9 / 15.9        |
-| Nov 7 | Clear Sky        | 51.8      | 39.5     | 0.00        | 14.1 / 14.1        |
-| Nov 8 | Partly Cloudy    | 57.1      | 42.6     | 0.00        | 17.0 / 17.0        |
-| Nov 9 | Overcast         | 60.1      | 46.7     | 0.00        | 34.9 / 34.9        |
+| Date   | Condition        | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
+| :----- | :--------------- | :-------- | :------- | :---------- | :----------------- |
+| Nov 03 | Drizzle          | 72.4      | 60.0     | 0.008       | 35.8 / 30.0        |
+| Nov 04 | Moderate Drizzle | 64.9      | 49.1     | 0.055       | 30.0 / 30.0        |
+| Nov 05 | Light Rain       | 52.3      | 46.9     | 0.175       | 30.2 / 16.8        |
+| Nov 06 | Moderate Drizzle | 49.6      | 43.6     | 0.067       | 16.8 / 21.0        |
+| Nov 07 | Partly Cloudy    | 38.4      | 38.4     | 0.000       | 14.5 / 16.8        |
+| Nov 08 | Overcast         | 41.3      | 41.3     | 0.000       | 10.2 / 21.0        |
+| Nov 09 | Overcast         | 45.3      | 45.3     | 0.000       | 30.9 / 30.9        |
 
-**Notable weather events:** Expect light drizzle through the middle of the week, with temperatures dropping into the mid-40s overnight. Wind speeds will be moderate, peaking around 35 mph on the first day.
+**Notable weather events:** Expect light to moderate drizzle and rain throughout the first half of the week, with temperatures dropping into the mid-40s by the end of the week. Wind gusts are expected to be strongest on the first day.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice:** Be prepared for potential frost, especially overnight, as temperatures dip into the mid-40s. Protect sensitive plants and ensure any exposed soil is protected. Watering needs should be minimal given the light precipitation forecast.
-- **Travel & driving outlook:** Expect slick roads due to recent and ongoing light drizzle. Be cautious of high wind gusts, particularly on the first day, which could affect driving conditions.
-- **Clothing recommendation for today:** Dress in layers. The current temperature is mild, but the overcast conditions and potential for drizzle mean a jacket or light coat is recommended. Prepare for cooler temperatures as the night progresses.
+- **Yard & garden advice:** Be prepared for damp conditions due to the persistent drizzle and rain. Soil moisture should be adequate, but avoid heavy watering as the forecast suggests wet weather. Frost risk is low given the current temperatures, but keep an eye on overnight lows near the 30s.
+- **Travel & driving outlook:** Expect slick roads due to recent and ongoing precipitation. Be cautious of potential reduced visibility during periods of rain. Wind gusts could be significant, so secure loose outdoor items.
+- **Clothing recommendation for today:** Dress in layers. Given the current temperature around 66°F and high humidity, a light jacket or sweater is recommended. Prepare for cooler temperatures later in the week, so bring warmer layers for the mornings and evenings.
 
 </details>
 <!-- WEATHER_REPORT_END -->
