@@ -24,43 +24,39 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Nov 5, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Thursday, November 05, 2026 — 05:07 PM CST
+# Weather Briefing — Chicago, Illinois, United States — Thursday, November 05, 2026 — 10:34 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **05:07 PM CST on Thursday, November 05, 2026** (local time)
-- Temperature & feels-like: 51.0°F / 49.3°F, Light drizzle expected.
-- Humidity: 92%
-- Dew Point: 48.8°F
-- Wind: 3.5 mph from 291° (West-Northwest), with gusts up to 9.4 mph.
-- Precipitation today: 0.004 inches
+- Station Observation Time: **10:34 PM CST on Thursday, November 05, 2026** (local time)
+- Temperature & feels-like: 46.9°F, Overcast conditions, 78% humidity, Dew Point: 40.4°F, Wind: 12.3 mph from the West, gusts up to 25.9 mph. No precipitation is currently reported.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 43
-- PM2.5: 7 μg/m³
-- PM10: 7 μg/m³
+- European AQI: 26 (Good air quality)
+- PM2.5: 0.5 μg/m³
+- PM10: 0.5 μg/m³
 - UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
 | Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
 | :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Nov 5  | Light drizzle | 52.6      | 45.4     | 0.024       | 29.5 / 29.5        |
-| Nov 6  | Overcast      | 46.9      | 38.2     | 0.000       | 28.9 / 28.9        |
-| Nov 7  | Overcast      | 50.9      | 37.3     | 0.000       | 20.1 / 20.1        |
-| Nov 8  | Overcast      | 59.2      | 43.0     | 0.000       | 25.9 / 25.9        |
-| Nov 9  | Overcast      | 63.8      | 49.3     | 0.000       | 32.9 / 32.9        |
-| Nov 10 | Mainly clear  | 61.7      | 50.9     | 0.000       | 33.3 / 33.3        |
-| Nov 11 | Light drizzle | 54.0      | 46.3     | 0.016       | 18.3 / 18.3        |
+| Nov 05 | Overcast      | 52.6      | 46.0     | 0.0         | 28.4 / 26.4        |
+| Nov 06 | Overcast      | 48.1      | 37.5     | 0.0         | 24.4 / 24.4        |
+| Nov 07 | Overcast      | 48.9      | 34.1     | 0.0         | 9.0 / 18.3         |
+| Nov 08 | Overcast      | 60.3      | 43.3     | 0.0         | 13.9 / 28.2        |
+| Nov 09 | Overcast      | 61.9      | 47.7     | 0.0         | 11.7 / 32.4        |
+| Nov 10 | Partly Cloudy | 60.9      | 50.4     | 0.0         | 11.9 / 32.0        |
+| Nov 11 | Overcast      | 50.4      | 45.1     | 0.0         | 11.2 / 19.0        |
 
-**Notable weather events:** Expect light drizzle on the first day and a potential increase in wind gusts toward the end of the week. Temperatures will fluctuate, with a high of 63.8°F forecasted on November 9th.
+**Notable weather events:** Expect generally overcast conditions throughout the week. High wind gusts are forecasted for November 8th and 9th, potentially reaching 32.4 mph. Temperatures will fluctuate, with a notable high of 61.9°F on November 9th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice:** Soil conditions should remain damp due to the recent light precipitation. Be mindful of potential frost, especially overnight, as lows dip into the upper 30s°F. Avoid heavy watering as the forecast shows no significant rain expected.
-- **Travel & driving outlook:** Wind speeds are expected to be moderate to high, with gusts reaching up to 33.3 mph on November 10th. Drivers should exercise caution on highways, particularly in exposed areas, due to potential strong crosswinds.
-- **Clothing recommendation for today:** Dress in layers. Given the current temperature around 51°F and high humidity (92%), a light jacket or sweater is recommended. Prepare for cooler conditions later in the evening, as lows drop into the 30s°F range.
+- **Yard & garden advice:** Soil conditions should remain stable, but be mindful of potential frost, especially overnight, given the low minimum temperatures dipping into the mid-30s°F. Water plants moderately, as the forecast shows no significant precipitation.
+- **Travel & driving outlook:** Be cautious of high wind gusts, particularly on November 8th and 9th, which could lead to slippery road conditions. Visibility may be reduced due to overcast skies.
+- **Clothing recommendation for today:** Dress in layers. With current temperatures around 47°F and high humidity, a jacket or sweater is recommended. Prepare for cooler mornings and evenings, as lows will drop into the mid-30s°F.
 
 </details>
 <!-- WEATHER_REPORT_END -->
