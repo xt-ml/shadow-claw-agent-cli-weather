@@ -24,37 +24,36 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Nov 8, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Sunday, November 08, 2026 — 06:34 AM CST
+# Weather Briefing — Chicago, Illinois, United States — Sunday, November 08, 2026 — 03:32 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **06:34 AM CST on Sunday, November 08, 2026** (local time)
-- Temperature & feels-like: 38.8°F, Partly cloudy, Humidity: 80%, Dew Point: 33.2°F, Wind: 10.5 mph from 250°, Gusts up to 20.1 mph. Precipitation today: 0.0 inches.
+- Station Observation Time: **03:32 PM CST on Sunday, November 08, 2026** (local time)
+- Temperature & feels-like: 56.7°F, Partly cloudy, Humidity: 50%, Dew Point: 38.3°F, Wind: 8.3 mph from the West (282°), with gusts up to 21 mph. Precipitation today: 0.0 inches.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 35 (Good), PM2.5: 9.4 μg/m³, PM10: 9.5 μg/m³, UV Index: 0.
-- Sun Protection Advice: No significant UV index detected; standard precautions are advised.
+- European AQI: 22 (Good), PM2.5: 5.0 μg/m³, PM10: 5.1 μg/m³, UV Index: 0.45 (Low risk, minimal sun protection needed).
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
-| :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Nov 8  | Clear sky     | 60.8      | 37.7     | 0.0         | 29.8 / 29.8        |
-| Nov 9  | Overcast      | 54.8      | 35.9     | 0.0         | 26.8 / 26.8        |
-| Nov 10 | Overcast      | 61.2      | 49.5     | 0.0         | 30.2 / 30.2        |
-| Nov 11 | Heavy rain    | 54.3      | 47.6     | 0.5         | 25.1 / 25.1        |
-| Nov 12 | Moderate rain | 48.2      | 41.7     | 0.27        | 28.2 / 28.2        |
-| Nov 13 | Heavy rain    | 42.4      | 36.6     | 0.21        | 28.9 / 28.9        |
-| Nov 14 | Overcast      | 44.9      | 33.9     | 0.0         | 23.9 / 23.9        |
+| Date   | Condition  | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
+| :----- | :--------- | :-------- | :------- | :---------- | :------------------ |
+| Nov 08 | Overcast   | 59.0      | 37.7     | 0.0         | Wind up to 29.5 mph |
+| Nov 09 | Overcast   | 58.5      | 36.6     | 0.0         | Wind up to 19.5 mph |
+| Nov 10 | Overcast   | 61.3      | 40.1     | 0.0         | Wind up to 20.8 mph |
+| Nov 11 | Heavy Rain | 56.0      | 47.4     | 0.27        | Wind up to 25.9 mph |
+| Nov 12 | Heavy Snow | 48.3      | 42.0     | 0.15        | Wind up to 30.2 mph |
+| Nov 13 | Heavy Snow | 42.0      | 33.9     | 0.02        | Wind up to 30.9 mph |
+| Nov 14 | Overcast   | 44.7      | 33.2     | 0.35        | Wind up to 20.8 mph |
 
-- Notable weather events: Expect a significant increase in precipitation, with heavy rain forecasted for November 11th and heavy rain on November 13th. Temperatures will fluctuate, with a noticeable dip into the mid-30s overnight. Wind speeds will be moderate to high throughout the period, with gusts reaching up to 30.2 mph on November 10th.
+**Notable weather events:** Expect overcast conditions through the middle of the week, with a significant chance of rain on November 11th and heavy snow expected on November 12th and 13th. Wind speeds are forecast to be strong, peaking around 30 mph on November 12th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice**: Soil conditions should remain relatively stable, but be prepared for wet conditions due to the forecasted rain. Avoid heavy watering until the rain subsides. Frost risk is low given the current temperatures, but be mindful of overnight lows dipping into the low 30s.
-- **Travel & driving outlook**: Expect slick road conditions due to recent and ongoing rain, especially on November 11th and 12th. High wind gusts are possible, so drivers should exercise caution on highways. Fog is not currently indicated.
-- **Clothing recommendation for today**: Dress in layers. Temperatures are mild during the day but can feel cool, especially in the morning and evening. Waterproof outer layers are recommended in anticipation of the forecasted rain later in the week.
+- **Yard & garden advice:** Be prepared for cold temperatures, especially overnight, with lows dipping into the low 30s°F. Soil may be frozen or near freezing, so avoid heavy watering. Protect sensitive plants from potential frost, particularly during the heavy snow days.
+- **Travel & driving outlook:** Expect slick road conditions due to recent and ongoing precipitation (rain and snow). High wind gusts are forecasted, which could impact driving conditions, especially on highways. Be cautious of potential ice buildup.
+- **Clothing recommendation for today:** Dress in layers. Given the current temperature around 57°F and the forecast for colder lows and potential precipitation, a medium-weight jacket or coat is recommended. Prepare for colder conditions as the week progresses, especially for the forecasted snow days.
 
 </details>
 <!-- WEATHER_REPORT_END -->
