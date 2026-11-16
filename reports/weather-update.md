@@ -1,30 +1,33 @@
-# Weather Briefing — Chicago, Illinois, United States — Sunday, November 15, 2026 — 07:16 AM CST
+# Weather Briefing — Chicago, Illinois, United States — Sunday, November 15, 2026 — 10:10 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **07:16 AM CST on Sunday, November 15, 2026** (local time)
-- Temperature & feels-like: 31.2°F / 25.5°F, Mainly clear conditions. Humidity is 91%. Dew point is 28.9°F. Wind is blowing from the West-Southwest at 3.5 mph, with gusts up to 10.5 mph. There is no precipitation reported today.
+- Station Observation Time: **10:10 PM CST on Sunday, November 15, 2026** (local time)
+- Temperature & feels-like: 34.6°F, Partly cloudy, 88% humidity, Dew Point: 31.4°F, Wind: 4.5 mph from 213°, Gusts up to 10.1 mph. No precipitation is currently reported.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 44. PM2.5 level is 10.6 μg/m³. UV Index is 0.05, indicating very low sun protection is needed.
+- European AQI: 55 (Moderate air quality)
+- PM2.5: 41.1 μg/m³
+- PM10: 41.6 μg/m³
+- UV Index: 0 (No sun protection advice needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
-| :----- | :------------ | :-------- | :------- | :---------- | :------------------ |
-| Nov 15 | Overcast      | 49.1      | 30.9     | 0.0         | Wind up to 13.6 mph |
-| Nov 16 | Overcast      | 49.4      | 31.6     | 0.0         | Wind up to 17.3 mph |
-| Nov 17 | Overcast      | 55.4      | 42.4     | 0.0         | Wind up to 26.4 mph |
-| Nov 18 | Overcast      | 58.7      | 45.5     | 0.0         | Wind up to 35.8 mph |
-| Nov 19 | Overcast      | 61.6      | 50.6     | 0.0         | Wind up to 37.8 mph |
-| Nov 20 | Overcast      | 59.8      | 48.1     | 0.0         | Wind up to 21.9 mph |
-| Nov 21 | Light Drizzle | 61.9      | 51.7     | 0.012       | Wind up to 31.8 mph |
+| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)       |
+| :----- | :------------ | :-------- | :------- | :---------- | :----------------------- |
+| Nov 15 | Partly cloudy | 49.7      | 31.1     | 0.0         | Max gusts up to 13.6 mph |
+| Nov 16 | Overcast      | 51.9      | 31.7     | 0.0         | Max gusts up to 16.3 mph |
+| Nov 17 | Overcast      | 55.6      | 32.3     | 0.0         | Max gusts up to 26.4 mph |
+| Nov 18 | Overcast      | 59.0      | 46.2     | 0.0         | Max gusts up to 34.7 mph |
+| Nov 19 | Overcast      | 60.8      | 50.4     | 0.0         | Max gusts up to 35.6 mph |
+| Nov 20 | Overcast      | 56.5      | 50.0     | 0.0         | Max gusts up to 21.7 mph |
+| Nov 21 | Light drizzle | 60.7      | 50.0     | 0.024       | Max gusts up to 32.2 mph |
 
-**Notable weather events:** Expect increasingly overcast conditions throughout the week, with potential for light drizzle on the final day. Wind speeds are forecast to increase significantly, peaking around 35.8 mph on November 18th.
+**Notable weather events:** Expect increasing cloud cover through the week, with potential for light drizzle on the final day. Wind gusts are forecast to be strongest around November 18th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice:** Temperatures are hovering in the low to mid-40s, suggesting soil may still be somewhat frozen or damp. Avoid heavy watering until soil temperatures rise. Frost risk is low, but be mindful of potential overnight dips.
-- **Travel & driving outlook:** High wind gusts are forecasted, especially mid-week. Drivers should exercise caution on highways due to strong crosswinds. Be prepared for potentially slick roads if any precipitation occurs.
-- **Clothing recommendation for today:** Dress in layers. With current temperatures in the low 30s, expect chilly conditions. Wind gusts will make it feel significantly colder, so a warm jacket and hat are recommended.
+- **Yard & garden advice:** Temperatures are hovering in the low to mid-40s, with overnight lows dipping into the low 30s. Be mindful of frost risk, especially in shaded areas. Water plants sparingly, as the forecast shows no significant precipitation.
+- **Travel & driving outlook:** Expect breezy conditions, with wind gusts reaching up to 35 mph on some days. Drivers should be cautious on highways due to potential high wind gusts. Visibility should generally be good, but be prepared for potential fog or drizzle toward the end of the week.
+- **Clothing recommendation for today:** Dress in layers. Temperatures will feel cool, especially in the evening, with highs reaching into the upper 50s. A jacket or sweater is recommended for comfort.
