@@ -24,39 +24,36 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 <details open>
 <summary><strong>📋 View Latest Weather Briefing (Nov 20, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Friday, November 20, 2026 — 08:43 AM CST
+# Weather Briefing — Chicago, Illinois, United States — Friday, November 20, 2026 — 05:33 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **08:43 AM CST on Friday, November 20, 2026** (local time)
-- Temperature & feels-like: 47.8°F, Partly cloudy, 88% humidity, Dew Point: 44.4°F, Wind: 4.9 mph from 147°, Gusts up to 13.6 mph. No precipitation is currently reported.
+- Station Observation Time: **05:33 PM CST on Friday, November 20, 2026** (local time)
+- Temperature & feels-like: 58.1°F, Partly cloudy, Humidity: 65%, Dew Point: 46.4°F, Wind: 6.9 mph from the 161° (East-Northeast), with gusts up to 17 mph. Precipitation today: 0.0 inches.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 50 (Good air quality)
-- PM2.5: 16.9 μg/m³
-- PM10: 17.5 μg/m³
-- UV Index: 0.35 (Very low risk; minimal sun protection needed)
+- European AQI: 50 (Good), PM2.5: 11.8 μg/m³, PM10: 13 μg/m³. UV Index: 0 (No sun protection needed).
 
 ## 3. 📅 7-Day Forecast Highlights
 
 | Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
 | :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Nov 20 | Partly Cloudy | 67.8      | 41.9     | 0.0         | 10.5 / 20.1        |
-| Nov 21 | Partly Cloudy | 69.2      | 45.0     | 0.0         | 10.8 / 25.1        |
-| Nov 22 | Moderate Snow | 57.6      | 43.0     | 0.051       | 12.7 / 30.9        |
-| Nov 23 | Partly Cloudy | 46.0      | 37.8     | 0.0         | 9.2 / 18.1         |
-| Nov 24 | Partly Cloudy | 42.0      | 35.5     | 0.0         | 13.7 / 17.0        |
-| Nov 25 | Partly Cloudy | 45.6      | 39.6     | 0.0         | 11.2 / 15.4        |
-| Nov 26 | Partly Cloudy | 48.2      | 45.3     | 0.0         | 14.1 / 21.0        |
+| Nov 20 | Partly Cloudy | 67.9      | 41.9     | 0.0         | 19.7 / 23          |
+| Nov 21 | Overcast      | 69.5      | 46.0     | 0.0         | 23 / 19            |
+| Nov 22 | Light Drizzle | 56.5      | 42.8     | 0.079       | 23.7 / 19          |
+| Nov 23 | Overcast      | 45.7      | 35.4     | 0.0         | 19                 |
+| Nov 24 | Overcast      | 40.9      | 34.6     | 0.0         | 19.2 / 19          |
+| Nov 25 | Overcast      | 44.3      | 39.2     | 0.0         | 19.9               |
+| Nov 26 | Overcast      | 44.5      | 41.8     | 0.0         | 13.9               |
 
-**Notable weather events:** Expect a slight chance of light precipitation (0.051 inches) on November 22nd. Temperatures will drop significantly mid-week, with lows dipping into the mid-30s, suggesting potential for light frost or freezing conditions overnight. Wind gusts are expected to be strongest around the middle of the week.
+**Notable weather events:** Expect a significant drop in temperature, with lows dipping into the mid-30s on November 23rd. There is a slight chance of light drizzle on November 22nd. Wind speeds will be moderate throughout the period, with gusts reaching up to 23 mph on November 21st.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice:** Be prepared for potential frost, especially overnight, as temperatures are forecasted to dip into the mid-30s. Cover sensitive plants or ensure pipes are protected. Soil moisture should be monitored, as the forecast shows dry conditions with no rain expected for several days.
-- **Travel & driving outlook:** Wind speeds are forecast to be moderate to high, with gusts reaching up to 30.9 mph on November 22nd. Drivers should exercise caution, especially on highways, regarding high crosswinds. Visibility should generally be good, but be mindful of potential slick conditions due to the forecasted light precipitation.
-- **Clothing recommendation for today:** Dress in layers. Given the current temperature of 47.8°F and a high humidity level, a light jacket or sweater is recommended. Prepare for cooler conditions later in the day and potentially chilly mornings.
+- **Yard & garden advice:** Be prepared for cold temperatures, especially overnight, as lows will drop into the mid-30s. Soil may be frozen or near freezing, so avoid heavy watering until the ground thaws. Protect sensitive plants from frost.
+- **Travel & driving outlook:** Expect breezy conditions with wind gusts up to 23 mph, particularly on the first two days. Drivers should be cautious on highways due to potential wind-related hazards. No significant ice or fog is currently forecasted, but watch for changing conditions.
+- **Clothing recommendation for today:** Dress in layers. Given the current temperature of 58.1°F and a dew point of 46.4°F, a light jacket or sweater is recommended. Prepare for cooler evenings as temperatures will drop significantly overnight.
 
 </details>
 <!-- WEATHER_REPORT_END -->
