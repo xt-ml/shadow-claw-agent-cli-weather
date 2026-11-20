@@ -1,31 +1,30 @@
-# Weather Briefing — Chicago, Illinois, United States — Wednesday, November 18, 2026 — 05:46 PM CST
+# Weather Briefing — Chicago, Illinois, United States — Thursday, November 19, 2026 — 06:07 PM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **05:46 PM CST on Wednesday, November 18, 2026** (local time)
-- Temperature & feels-like: 49.1°F, Partly cloudy, Humidity: 43%, Dew Point: 27.5°F, Wind: 6.3 mph from 190°, Gusts up to 14.1 mph. Precipitation today: 0.0 inches.
+- Station Observation Time: **06:07 PM CST on Thursday, November 19, 2026** (local time)
+- Temperature & feels-like: 55.1°F / 50.6°F, Clear sky (Weather Code 0), Humidity: 63%, Dew Point: 42.7°F, Wind: 6.4 mph from 240°, Gusts up to 14.3 mph. Precipitation today: 0.0 inches.
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 46, PM2.5: 6.3 μg/m³, PM10: 6.4 μg/m³, UV Index: 0.
-- Sun Protection Advice: No significant UV index detected; standard precautions are advised.
+- European AQI: 56 (Good), PM2.5: 14.3 μg/m³, PM10: 15.4 μg/m³. UV Index: 0 (No sun protection needed).
 
 ## 3. 📅 7-Day Forecast Highlights
 
-| Date   | Condition  | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)  |
-| :----- | :--------- | :-------- | :------- | :---------- | :------------------ |
-| Nov 18 | Overcast   | 61.4      | 36.8     | 0.0         | Wind up to 20.6 mph |
-| Nov 19 | Overcast   | 65.1      | 43.7     | 0.0         | Wind up to 26.8 mph |
-| Nov 20 | Foggy      | 63.4      | 39.7     | 0.0         | Wind up to 29.8 mph |
-| Nov 21 | Overcast   | 64.3      | 51.7     | 0.0         | Wind up to 29.5 mph |
-| Nov 22 | Light Rain | 59.9      | 43.0     | 0.11        | Wind up to 27.5 mph |
-| Nov 23 | Overcast   | 43.2      | 39.1     | 0.0         | Wind up to 19.5 mph |
-| Nov 24 | Overcast   | 40.5      | 34.5     | 0.0         | Wind up to 15.2 mph |
+| Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph)     |
+| :----- | :------------ | :-------- | :------- | :---------- | :--------------------- |
+| Nov 19 | Overcast      | 67.0      | 43.4     | 0.00        | Wind 12.8 / Gusts 21   |
+| Nov 20 | Overcast      | 67.6      | 43.7     | 0.00        | Wind 10.9 / Gusts 20.1 |
+| Nov 21 | Overcast      | 65.3      | 46.3     | 0.00        | Wind 11.7 / Gusts 27.7 |
+| Nov 22 | Light Rain    | 59.0      | 42.6     | 0.13        | Wind 13.4 / Gusts 30.6 |
+| Nov 23 | Partly Cloudy | 45.0      | 37.6     | 0.00        | Wind 11.9 / Gusts 20.4 |
+| Nov 24 | Overcast      | 40.1      | 38.0     | 0.00        | Wind 12.7 / Gusts 18.6 |
+| Nov 25 | Light Drizzle | 41.4      | 36.9     | 0.05        | Wind 10.0 / Gusts 12.8 |
 
-- Notable weather events: Expect a significant temperature fluctuation, with highs reaching into the mid-60s and lows dipping into the mid-30s. There is a slight chance of light rain on November 22nd. Wind speeds are forecast to be breezy, with gusts reaching up to 29.8 mph on November 20th.
+**Notable weather events:** Expect a slight chance of rain on November 22nd. Wind gusts are expected to be strongest around November 21st. Temperatures will drop significantly toward the end of the week, with lows dipping into the mid-30s.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice**: Given the fluctuating temperatures, be mindful of potential frost, especially overnight, as lows are forecasted to drop into the mid-30s. Water deeply if plants are sensitive, as the forecast suggests a period of cooler, potentially damp weather.
-- **Travel & driving outlook**: Be prepared for breezy conditions throughout the week, with wind gusts potentially reaching nearly 30 mph on Tuesday. Drivers should exercise caution on highways due to strong crosswinds. Fog is possible on November 20th, which may reduce visibility.
-- **Clothing recommendation for today**: Dress in layers. The current temperature is mild, but the forecast shows significant drops overnight and breezy conditions. A medium jacket or sweater is recommended for comfort during the day, layering up for the cooler evenings.
+- **Yard & garden advice:** Be prepared for potential frost, especially overnight, as temperatures are forecasted to dip into the mid-30s. Protect sensitive plants and ensure any exposed soil is protected. No significant watering is anticipated due to the dry forecast.
+- **Travel & driving outlook:** Be cautious of strong wind gusts, particularly on November 21st, which could affect driving conditions. Roads may experience slick spots due to recent light rain. Maintain situational awareness regarding high wind speeds.
+- **Clothing recommendation for today:** Dress in layers. The current temperature is mild, but expect cooler conditions later in the evening and overnight. A jacket or sweater is recommended.
