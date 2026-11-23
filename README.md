@@ -22,41 +22,39 @@ Fully model-agnostic: works seamlessly with any configured model provider (inclu
 > 📦 **Raw Data Asset**: [`reports/weather-data.json`](reports/weather-data.json) · **Briefing Markdown**: [`reports/weather-update.md`](reports/weather-update.md)
 
 <details open>
-<summary><strong>📋 View Latest Weather Briefing (Nov 22, 2026)</strong></summary>
+<summary><strong>📋 View Latest Weather Briefing (Nov 23, 2026)</strong></summary>
 
-# Weather Briefing — Chicago, Illinois, United States — Sunday, November 22, 2026 — 07:53 AM CST
+# Weather Briefing — Chicago, Illinois, United States — Monday, November 23, 2026 — 11:01 AM CST
 
 ## 1. 🌡️ Current Conditions
 
-- Station Observation Time: **07:53 AM CST on Sunday, November 22, 2026** (local time)
-- Temperature & feels-like: 52.8°F, Partly cloudy, Humidity: 76%, Dew Point: 45.5°F, Wind: 10 mph from 206°, Gusts up to 22.8 mph. Precipitation today: 0.0 inches.
+- Station Observation Time: **11:01 AM CST on Monday, November 23, 2026** (local time)
+- Temperature & feels-like: 38.1°F, Partly cloudy, 67% humidity, 28.1°F dew point, wind 9.8 mph from the West (325°), 15.4 mph gusts.
+- Precipitation today: 0.0 inches
 
 ## 2. 🌬️ Air Quality & UV
 
-- European AQI: 40 (Good air quality)
-- PM2.5: 5.4 μg/m³
-- PM10: 6 μg/m³
-- UV Index: 0.05 (Very low risk; sun protection is not typically advised for this low level.)
+- European AQI: 16 (Good), PM2.5: 3.8 μg/m³, PM10: 3.9 μg/m³, UV Index: 1.45 (Low sun protection needed)
 
 ## 3. 📅 7-Day Forecast Highlights
 
 | Date   | Condition     | High (°F) | Low (°F) | Precip (in) | Wind / Gusts (mph) |
 | :----- | :------------ | :-------- | :------- | :---------- | :----------------- |
-| Nov 22 | Overcast      | 57.3      | 33.1     | 0.1         | Wind 11.9 - 28.2   |
-| Nov 23 | Cloudy        | 37.6      | 31.1     | 0.0         | Wind 12.3 - 31.2   |
-| Nov 24 | Snow Showers  | 39.9      | 35.8     | 0.39        | Wind 8.3 - 15.2    |
-| Nov 25 | Light Snow    | 44.9      | 37.6     | 0.028       | Wind 10.6 - 16.6   |
-| Nov 26 | Light Rain    | 45.7      | 40.4     | 0.465       | Wind 17.6 - 23.7   |
-| Nov 27 | Light Drizzle | 46.5      | 38.7     | 0.004       | Wind 13.6 - 23.7   |
-| Nov 28 | Light Rain    | 47.0      | 38.7     | 0.177       | Wind 11.0 - 24.2   |
+| Nov 23 | Overcast      | 40.3      | 30.4     | 0.00        | Wind 9.8 / 27.3    |
+| Nov 24 | Light Drizzle | 39.4      | 30.1     | 0.016       | Wind 9.8 / 22.1    |
+| Nov 25 | Overcast      | 45.7      | 33.2     | 0.00        | Wind 15.6 / 21.9   |
+| Nov 26 | Rain Showers  | 45.3      | 42.0     | 0.539       | Wind 20.6 / 28.4   |
+| Nov 27 | Rain Showers  | 49.3      | 40.1     | 0.157       | Wind 17.0 / 24.8   |
+| Nov 28 | Light Drizzle | 49.6      | 39.2     | 0.012       | Wind 13.1 / 26.2   |
+| Nov 29 | Overcast      | 47.6      | 37.8     | 0.00        | Wind 11.9 / 29.8   |
 
-**Notable weather events:** Expect a mix of overcast conditions, with a chance of light rain and scattered snow showers through the middle of the week. The highest precipitation is forecasted for November 26th. Wind gusts could reach up to 31.2 mph on November 23th.
+**Notable weather events:** Expect light drizzle on November 24th and potential rain showers on November 26th and 27th. High temperatures are forecasted around 49°F on November 27th. Wind speeds are expected to be moderate to strong, with gusts reaching up to 29.8 mph on November 29th.
 
 ## 4. 🚜 Practical Living Advice (Chicago, Illinois, United States — November 2026)
 
-- **Yard & garden advice:** Be prepared for potential frost, especially overnight, given the low minimum temperatures dipping into the mid-30s°F. Keep sensitive plants protected. Soil moisture should be monitored as the light rain on the 26th might help, but avoid heavy watering if rain is forecast.
-- **Travel & driving outlook:** Expect variable driving conditions due to wind gusts reaching up to 31.2 mph on some days. Be cautious of potential slick spots from recent precipitation. Visibility may be reduced during periods of heavy wind.
-- **Clothing recommendation for today:** Dress in layers. Temperatures are cool, with a current feel of 52.8°F, but expect temperatures to drop into the low 30s°F overnight. A waterproof or water-resistant jacket is recommended due to the chance of light rain.
+- **Yard & garden advice:** Soil conditions should remain relatively cool, but be mindful of potential frost, especially overnight, given the low minimum temperatures dipping into the 30s°F. Avoid heavy watering during periods of rain.
+- **Travel & driving outlook:** Be prepared for wet roads and slick conditions due to the forecasted light drizzle and rain showers. High wind gusts are possible, so exercise caution when driving, especially on highways.
+- **Clothing recommendation for today:** Dress in layers. Expect cool temperatures during the day (highs near 40°F) but bring a waterproof jacket or umbrella for the light precipitation noted in the forecast.
 
 </details>
 <!-- WEATHER_REPORT_END -->
